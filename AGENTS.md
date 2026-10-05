@@ -21,3 +21,17 @@
 
 如果用户要求“考试模式”，只保留精炼采分点。
 如果用户要求“讲题模式”，增加题眼到知识点的映射解释。
+
+## Agent skills
+
+### Issue tracker
+
+规格和任务保存为 .scratch/ 下的本地 Markdown。见 docs/agents/issue-tracker.md。
+
+### Triage labels
+
+使用默认的五个任务分类状态。见 docs/agents/triage-labels.md。
+
+### Domain docs
+
+本仓库使用单一领域语境：根目录 CONTEXT.md 与 docs/adr/。见 docs/agents/domain.md。

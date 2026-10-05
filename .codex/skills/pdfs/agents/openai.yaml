@@ -1,0 +1,3 @@
+interface:
+  display_name: "教材 PDF 提取与核对"
+  short_description: "将教材页面提取为文字，对照图像核对并记录双页码来源和修订状态"

@@ -1,0 +1,4969 @@
+{
+  "schema_version": 1,
+  "points": [
+    {
+      "id": "7A-L01-K01",
+      "section": "奏响中学序曲",
+      "kind": "认识",
+      "clues": [
+        "新学校",
+        "新老师",
+        "新同学",
+        "新起点"
+      ],
+      "question_patterns": [
+        "有什么变化"
+      ],
+      "status": "verified",
+      "lesson": "第一课 开启初中生活",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 11,
+          "textbook_page": "3",
+          "locator": "一个新的身份——中学生"
+        }
+      ],
+      "title": "初中生活是新的起点",
+      "path": "七年级上册/01_第一课_开启初中生活.md",
+      "anchor": "7A-L01-K01",
+      "content": "进入初中，我们有了中学生的新身份，开始新的人生旅程；新环境、新老师、新同学带来新的期待。\n\n来源：教材第 3 页（PDF 第 11 页）。"
+    },
+    {
+      "id": "7A-L01-K02",
+      "section": "奏响中学序曲",
+      "kind": "意义",
+      "clues": [
+        "社团",
+        "社会实践",
+        "新课程",
+        "机会"
+      ],
+      "question_patterns": [
+        "有哪些机会",
+        "有什么意义"
+      ],
+      "status": "verified",
+      "lesson": "第一课 开启初中生活",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 12,
+          "textbook_page": "4",
+          "locator": "初中阶段为我们的发展提供了新的机会"
+        }
+      ],
+      "title": "初中阶段提供新的发展机会",
+      "path": "七年级上册/01_第一课_开启初中生活.md",
+      "anchor": "7A-L01-K02",
+      "content": "①课程和学习任务帮助我们探索新的知识领域。\n②社团活动提供培养兴趣的平台。\n③社会实践帮助我们认识社会。\n④集体生活帮助我们涵养品格、提升自我。\n\n来源：教材第 4 页（PDF 第 12 页）。"
+    },
+    {
+      "id": "7A-L01-K03",
+      "section": "奏响中学序曲",
+      "kind": "认识",
+      "clues": [
+        "新要求",
+        "上进",
+        "合作",
+        "坚强"
+      ],
+      "question_patterns": [
+        "有哪些要求"
+      ],
+      "status": "verified",
+      "lesson": "第一课 开启初中生活",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 12,
+          "textbook_page": "4",
+          "locator": "初中阶段对我们的成长提出了新的要求"
+        }
+      ],
+      "title": "初中阶段提出新的成长要求",
+      "path": "七年级上册/01_第一课_开启初中生活.md",
+      "anchor": "7A-L01-K03",
+      "content": "①积极上进，志存高远。\n②踏实学习，勤于思考。\n③包容他人，尊重他人，学会合作。\n④坚强、有韧劲，坚持努力。\n\n来源：教材第 4 页（PDF 第 12 页）。"
+    },
+    {
+      "id": "7A-L01-K04",
+      "section": "奏响中学序曲",
+      "kind": "意义",
+      "clues": [
+        "拔节孕穗期",
+        "三观",
+        "重要阶段"
+      ],
+      "question_patterns": [
+        "为什么重要"
+      ],
+      "status": "verified",
+      "lesson": "第一课 开启初中生活",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 12,
+          "textbook_page": "4",
+          "locator": "初步形成世界观、人生观、价值观"
+        }
+      ],
+      "title": "初中阶段的独特价值",
+      "path": "七年级上册/01_第一课_开启初中生活.md",
+      "anchor": "7A-L01-K04",
+      "content": "我们处于生命成长的“拔节孕穗期”，初步形成世界观、人生观、价值观，需要精心引导和栽培。\n\n来源：教材第 4 页（PDF 第 12 页）。"
+    },
+    {
+      "id": "7A-L01-K05",
+      "section": "奏响中学序曲",
+      "kind": "做法",
+      "clues": [
+        "珍惜初中",
+        "担当",
+        "尽责",
+        "面对挑战"
+      ],
+      "question_patterns": [
+        "怎样做"
+      ],
+      "status": "verified",
+      "lesson": "第一课 开启初中生活",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 13,
+          "textbook_page": "5",
+          "locator": "我们要珍视当下，把握机遇"
+        }
+      ],
+      "title": "如何开启初中生活",
+      "path": "七年级上册/01_第一课_开启初中生活.md",
+      "anchor": "7A-L01-K05",
+      "content": "珍视当下，把握机遇，把准人生方向，积极追求进步，确立更高的发展目标；在担当中历练，在尽责中成长，努力成为有理想、敢担当、能吃苦、肯奋斗的中学生。\n\n来源：教材第 5 页（PDF 第 13 页）。"
+    },
+    {
+      "id": "7A-L01-K06",
+      "section": "规划初中生活",
+      "kind": "概念",
+      "clues": [
+        "没有计划",
+        "盲目",
+        "无序",
+        "规划"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么需要规划"
+      ],
+      "status": "verified",
+      "lesson": "第一课 开启初中生活",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 14,
+          "textbook_page": "6",
+          "locator": "规划是对未来的事情作出事先的设计与安排"
+        }
+      ],
+      "title": "规划的含义与作用",
+      "path": "七年级上册/01_第一课_开启初中生活.md",
+      "anchor": "7A-L01-K06",
+      "content": "规划是对未来事情事先作出的设计与安排。没有规划，生活容易盲目和无序；合理规划有助于我们更好地度过初中阶段。\n\n来源：教材第 6 页（PDF 第 14 页）。"
+    },
+    {
+      "id": "7A-L01-K07",
+      "section": "规划初中生活",
+      "kind": "做法",
+      "clues": [
+        "目标",
+        "兴趣",
+        "性格",
+        "能力",
+        "社会需要"
+      ],
+      "question_patterns": [
+        "怎样确定目标"
+      ],
+      "status": "verified",
+      "lesson": "第一课 开启初中生活",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 14,
+          "textbook_page": "6",
+          "locator": "应当确定个人发展目标"
+        }
+      ],
+      "title": "确定合理的发展目标",
+      "path": "七年级上册/01_第一课_开启初中生活.md",
+      "anchor": "7A-L01-K07",
+      "content": "在老师和家长帮助下，结合社会需要以及自己的兴趣、性格、能力等条件，设定合理的发展目标。\n\n来源：教材第 6 页（PDF 第 14 页）。"
+    },
+    {
+      "id": "7A-L01-K08",
+      "section": "规划初中生活",
+      "kind": "做法",
+      "clues": [
+        "分解目标",
+        "时间表",
+        "行动方案"
+      ],
+      "question_patterns": [
+        "怎样规划"
+      ],
+      "status": "verified",
+      "lesson": "第一课 开启初中生活",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 15,
+          "textbook_page": "7",
+          "locator": "还应当制订行动方案"
+        }
+      ],
+      "title": "制订可行的行动方案",
+      "path": "七年级上册/01_第一课_开启初中生活.md",
+      "anchor": "7A-L01-K08",
+      "content": "根据实际情况分解发展目标，明确实施细节，列出时间表，使行动方案切实可行。\n\n来源：教材第 7 页（PDF 第 15 页）。"
+    },
+    {
+      "id": "7A-L01-K09",
+      "section": "规划初中生活",
+      "kind": "做法",
+      "clues": [
+        "纸上计划",
+        "坚持",
+        "每天行动"
+      ],
+      "question_patterns": [
+        "如何落实规划"
+      ],
+      "status": "verified",
+      "lesson": "第一课 开启初中生活",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 16,
+          "textbook_page": "8",
+          "locator": "将“努力”落实在每一天的具体行动中"
+        }
+      ],
+      "title": "将规划落实为行动",
+      "path": "七年级上册/01_第一课_开启初中生活.md",
+      "anchor": "7A-L01-K09",
+      "content": "持之以恒，向着既定目标前进，把努力落实在每一天的具体行动中。\n\n来源：教材第 8 页（PDF 第 16 页）。"
+    },
+    {
+      "id": "7A-L01-K10",
+      "section": "规划初中生活",
+      "kind": "方法",
+      "clues": [
+        "努力方法",
+        "时间管理",
+        "劳逸结合",
+        "学思并进"
+      ],
+      "question_patterns": [
+        "如何努力"
+      ],
+      "status": "verified",
+      "lesson": "第一课 开启初中生活",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 16,
+          "textbook_page": "8",
+          "locator": "方法与技能：“努力”有方法"
+        }
+      ],
+      "title": "努力的方法",
+      "path": "七年级上册/01_第一课_开启初中生活.md",
+      "anchor": "7A-L01-K10",
+      "content": "①分清主次，合理规划和管理时间。\n②劳逸结合，科学用脑。\n③每天进步一点点。\n④学思并进。\n⑤珍视团队合作。\n\n来源：教材第 8 页（PDF 第 16 页）。"
+    },
+    {
+      "id": "7A-L02-K01",
+      "section": "认识自己",
+      "kind": "意义",
+      "clues": [
+        "认识自己有什么用",
+        "增强自信",
+        "正确认识自己"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第二课 正确认识自我",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 18,
+          "textbook_page": "10",
+          "locator": "准确把握自己的禀赋和特性"
+        }
+      ],
+      "title": "正确认识自己的意义",
+      "path": "七年级上册/02_第二课_正确认识自我.md",
+      "anchor": "7A-L02-K01",
+      "content": "正确认识自己的禀赋和特性，有助于增强自信、促进自我发展和与他人的交往，正确处理个人与社会的关系，更好地认识和改造外部世界。\n\n来源：教材第 10 页（PDF 第 18 页）。"
+    },
+    {
+      "id": "7A-L02-K02",
+      "section": "认识自己",
+      "kind": "做法",
+      "clues": [
+        "什么都不如别人",
+        "全面认识自己",
+        "只看成绩",
+        "自我评价",
+        "自卑"
+      ],
+      "question_patterns": [
+        "怎么做",
+        "启示"
+      ],
+      "status": "verified",
+      "lesson": "第二课 正确认识自我",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 18,
+          "textbook_page": "10",
+          "locator": "从性格、气质、能力等心理特征来认识自己"
+        }
+      ],
+      "title": "通过全面分析认识自己",
+      "path": "七年级上册/02_第二课_正确认识自我.md",
+      "anchor": "7A-L02-K02",
+      "content": "从生理状况、心理特征和社会关系等方面全面分析自己。不能只凭学习成绩、外貌或某一个方面否定自己。\n\n来源：教材第 10 页（PDF 第 18 页）。"
+    },
+    {
+      "id": "7A-L02-K03",
+      "section": "认识自己",
+      "kind": "做法",
+      "clues": [
+        "不同评价",
+        "他人评价",
+        "盲从",
+        "轻视评价"
+      ],
+      "question_patterns": [
+        "怎么做",
+        "启示"
+      ],
+      "status": "verified",
+      "lesson": "第二课 正确认识自我",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 18,
+          "textbook_page": "10",
+          "locator": "既不盲从也不轻视"
+        }
+      ],
+      "title": "借助他人评价认识自己",
+      "path": "七年级上册/02_第二课_正确认识自我.md",
+      "anchor": "7A-L02-K03",
+      "content": "他人评价有助于形成更客观、完整、清晰的自我认识。应客观冷静地对待他人评价，既不盲从也不轻视。\n\n来源：教材第 10 页（PDF 第 18 页）。"
+    },
+    {
+      "id": "7A-L02-K04",
+      "section": "认识自己",
+      "kind": "做法",
+      "clues": [
+        "批评",
+        "评价不一致",
+        "吹捧",
+        "贬损",
+        "客观冷静"
+      ],
+      "question_patterns": [
+        "怎么做",
+        "启示"
+      ],
+      "status": "verified",
+      "lesson": "第二课 正确认识自我",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 19,
+          "textbook_page": "11",
+          "locator": "用心聆听"
+        },
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 19,
+          "textbook_page": "11",
+          "locator": "理性应对"
+        }
+      ],
+      "title": "正确对待他人评价的方法",
+      "path": "七年级上册/02_第二课_正确认识自我.md",
+      "anchor": "7A-L02-K04",
+      "content": "①用心聆听，重视评价，不过早下结论。②主动沟通，了解评价的缘由。③勇于面对客观、中肯的评价，提升自己。④对不客观的吹捧或贬损，理性思考后选择忽略或平静拒绝。\n\n来源：教材第 11 页（PDF 第 19 页）；教材第 11 页（PDF 第 19 页）。"
+    },
+    {
+      "id": "7A-L02-K05",
+      "section": "认识自己",
+      "kind": "做法",
+      "clues": [
+        "生活实践",
+        "优势和不足",
+        "劳动",
+        "人际交往"
+      ],
+      "question_patterns": [
+        "怎么做",
+        "启示"
+      ],
+      "status": "verified",
+      "lesson": "第二课 正确认识自我",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 19,
+          "textbook_page": "11",
+          "locator": "在生活实践中认识自己"
+        }
+      ],
+      "title": "在生活实践中认识自己",
+      "path": "七年级上册/02_第二课_正确认识自我.md",
+      "anchor": "7A-L02-K05",
+      "content": "通过学习、劳动、人际交往等实践了解优势和不足，检视自己，使自我认识更加准确、清晰。\n\n来源：教材第 11 页（PDF 第 19 页）。"
+    },
+    {
+      "id": "7A-L02-K06",
+      "section": "认识自己",
+      "kind": "认识",
+      "clues": [
+        "认识自己是一成不变的",
+        "发展自己",
+        "不断认识自己"
+      ],
+      "question_patterns": [
+        "怎么做",
+        "启示"
+      ],
+      "status": "verified",
+      "lesson": "第二课 正确认识自我",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 19,
+          "textbook_page": "11",
+          "locator": "认识自己是一个过程"
+        }
+      ],
+      "title": "认识自己是不断发展的过程",
+      "path": "七年级上册/02_第二课_正确认识自我.md",
+      "anchor": "7A-L02-K06",
+      "content": "随着年龄增长、知识积累和视野开阔，自我认识逐步深入。应不断发展和完善自己。\n\n来源：教材第 11 页（PDF 第 19 页）。"
+    },
+    {
+      "id": "7A-L02-K07",
+      "section": "做更好的自己",
+      "kind": "做法",
+      "clues": [
+        "盲目模仿",
+        "和别人比较",
+        "个体差异"
+      ],
+      "question_patterns": [
+        "怎么做",
+        "启示"
+      ],
+      "status": "verified",
+      "lesson": "第二课 正确认识自我",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 20,
+          "textbook_page": "12",
+          "locator": "尊重和接受个体的差异"
+        }
+      ],
+      "title": "尊重个体差异",
+      "path": "七年级上册/02_第二课_正确认识自我.md",
+      "anchor": "7A-L02-K07",
+      "content": "尊重和接受每个人在兴趣、性格、气质、能力等方面的差异，根据自身特点和社会需要发展自己。\n\n来源：教材第 12 页（PDF 第 20 页）。"
+    },
+    {
+      "id": "7A-L02-K08",
+      "section": "做更好的自己",
+      "kind": "做法",
+      "clues": [
+        "没有优点",
+        "自卑",
+        "欣赏自己",
+        "骄傲自大"
+      ],
+      "question_patterns": [
+        "怎么做",
+        "启示"
+      ],
+      "status": "verified",
+      "lesson": "第二课 正确认识自我",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 21,
+          "textbook_page": "13",
+          "locator": "欣赏自己的长处和优势"
+        }
+      ],
+      "title": "学会欣赏自己",
+      "path": "七年级上册/02_第二课_正确认识自我.md",
+      "anchor": "7A-L02-K08",
+      "content": "欣赏自己的长处和优势，以及认真做事、善于合作、坚持不懈等品质，激励自己前进。欣赏自己应避免孤芳自赏和骄傲自大。\n\n来源：教材第 13 页（PDF 第 21 页）。"
+    },
+    {
+      "id": "7A-L02-K09",
+      "section": "做更好的自己",
+      "kind": "做法",
+      "clues": [
+        "不满意自己",
+        "接纳自己",
+        "接纳不足",
+        "自卑"
+      ],
+      "question_patterns": [
+        "怎么做",
+        "启示"
+      ],
+      "status": "verified",
+      "lesson": "第二课 正确认识自我",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 22,
+          "textbook_page": "14",
+          "locator": "接纳自己需要接纳自己的全部"
+        }
+      ],
+      "title": "学会接纳自己",
+      "path": "七年级上册/02_第二课_正确认识自我.md",
+      "anchor": "7A-L02-K09",
+      "content": "接纳自己的全部，包括优点与不足、现在与过去、满意与不满意的部分。接纳不足应以乐观、勇气和智慧面对现实，并努力进步。\n\n来源：教材第 14 页（PDF 第 22 页）。"
+    },
+    {
+      "id": "7A-L02-K10",
+      "section": "做更好的自己",
+      "kind": "做法",
+      "clues": [
+        "改正缺点",
+        "完善自己",
+        "扬长避短"
+      ],
+      "question_patterns": [
+        "怎么做",
+        "启示"
+      ],
+      "status": "verified",
+      "lesson": "第二课 正确认识自我",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 22,
+          "textbook_page": "14",
+          "locator": "不断完善自己"
+        }
+      ],
+      "title": "不断完善自己",
+      "path": "七年级上册/02_第二课_正确认识自我.md",
+      "anchor": "7A-L02-K10",
+      "content": "发挥优点和长处，主动改正缺点、弥补不足；向他人、书本和社会学习，利用机会丰富和发展自己。\n\n来源：教材第 14 页（PDF 第 22 页）。"
+    },
+    {
+      "id": "7A-L02-K11",
+      "section": "做更好的自己",
+      "kind": "方法",
+      "clues": [
+        "缺点改不了",
+        "自我反思",
+        "改正缺点的方法"
+      ],
+      "question_patterns": [
+        "怎么做",
+        "启示"
+      ],
+      "status": "verified",
+      "lesson": "第二课 正确认识自我",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 22,
+          "textbook_page": "14",
+          "locator": "从最容易改正的缺点开始"
+        }
+      ],
+      "title": "改正缺点的方法",
+      "path": "七年级上册/02_第二课_正确认识自我.md",
+      "anchor": "7A-L02-K11",
+      "content": "通过自我反思和他人评价发现缺点，具体描述缺点，从最容易改正的开始；肯定自己的努力，请信任的人协助，作出公开承诺，并运用成功经验。\n\n来源：教材第 14 页（PDF 第 22 页）。"
+    },
+    {
+      "id": "7A-L02-K12",
+      "section": "做更好的自己",
+      "kind": "做法",
+      "clues": [
+        "挖掘潜能",
+        "发掘潜能",
+        "潜在能力"
+      ],
+      "question_patterns": [
+        "怎么做",
+        "启示"
+      ],
+      "status": "verified",
+      "lesson": "第二课 正确认识自我",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 22,
+          "textbook_page": "14",
+          "locator": "不断发掘自己的潜能"
+        },
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 23,
+          "textbook_page": "15",
+          "locator": "受先天遗传和后天因素的影响"
+        }
+      ],
+      "title": "发掘自己的潜能",
+      "path": "七年级上册/02_第二课_正确认识自我.md",
+      "anchor": "7A-L02-K12",
+      "content": "通过学习发现兴趣和喜爱的领域；参加多方面活动，了解国家和社会需要，寻找发展空间；通过合作不断提升能力。潜能受先天和后天因素影响，每个人都可能具有多方面潜能。\n\n来源：教材第 14 页（PDF 第 22 页）；教材第 15 页（PDF 第 23 页）。"
+    },
+    {
+      "id": "7A-L02-K13",
+      "section": "做更好的自己",
+      "kind": "认识",
+      "clues": [
+        "服务他人",
+        "服务社会",
+        "做更好的自己"
+      ],
+      "question_patterns": [
+        "怎么做",
+        "启示"
+      ],
+      "status": "verified",
+      "lesson": "第二课 正确认识自我",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 23,
+          "textbook_page": "15",
+          "locator": "是在为他人、为社会服务中实现的"
+        }
+      ],
+      "title": "在服务他人和社会中发展自己",
+      "path": "七年级上册/02_第二课_正确认识自我.md",
+      "anchor": "7A-L02-K13",
+      "content": "做更好的自己要在为他人、为社会服务中实现。这既是初中阶段的成长要求，也是需要一生探寻的人生课题。\n\n来源：教材第 15 页（PDF 第 23 页）。"
+    },
+    {
+      "id": "7A-L03-K01",
+      "section": "做有梦想的少年",
+      "kind": "概念",
+      "clues": [
+        "梦想是什么",
+        "美好愿望"
+      ],
+      "question_patterns": [
+        "是什么"
+      ],
+      "status": "verified",
+      "lesson": "第三课 梦想始于当下",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 24,
+          "textbook_page": "16",
+          "locator": "梦想是对未来美好生活的愿望"
+        }
+      ],
+      "title": "梦想的含义",
+      "path": "七年级上册/03_第三课_梦想始于当下.md",
+      "anchor": "7A-L03-K01",
+      "content": "梦想是对未来美好生活的愿望。编织人生梦想，是青少年时期的重要主题。\n\n来源：教材第 16 页（PDF 第 24 页）。"
+    },
+    {
+      "id": "7A-L03-K02",
+      "section": "做有梦想的少年",
+      "kind": "意义",
+      "clues": [
+        "希望",
+        "梦想的力量",
+        "热情",
+        "勇气"
+      ],
+      "question_patterns": [
+        "为什么要有梦想"
+      ],
+      "status": "verified",
+      "lesson": "第三课 梦想始于当下",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 25,
+          "textbook_page": "17",
+          "locator": "梦想能不断激发我们对生命的热情和勇气"
+        }
+      ],
+      "title": "梦想的作用",
+      "path": "七年级上册/03_第三课_梦想始于当下.md",
+      "anchor": "7A-L03-K02",
+      "content": "①梦想能激发我们对生命的热情和勇气，让生活更有色彩；有梦想就会有希望。\n②梦想推动人类社会不断发展和进步。\n\n来源：教材第 17 页（PDF 第 25 页）。"
+    },
+    {
+      "id": "7A-L03-K03",
+      "section": "做有梦想的少年",
+      "kind": "做法",
+      "clues": [
+        "立志",
+        "远大志向",
+        "志向多变"
+      ],
+      "question_patterns": [
+        "怎样树立梦想"
+      ],
+      "status": "verified",
+      "lesson": "第三课 梦想始于当下",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 26,
+          "textbook_page": "18",
+          "locator": "我们要早立志，立大志，立长志"
+        }
+      ],
+      "title": "树立远大志向",
+      "path": "七年级上册/03_第三课_梦想始于当下.md",
+      "anchor": "7A-L03-K03",
+      "content": "志向是人生的航标，是奋斗的原动力。做有梦想的少年，应当树立远大志向，早立志、立大志、立长志。\n\n来源：教材第 18 页（PDF 第 26 页）。"
+    },
+    {
+      "id": "7A-L03-K04",
+      "section": "做有梦想的少年",
+      "kind": "做法",
+      "clues": [
+        "中国梦",
+        "时代新人",
+        "祖国",
+        "民族复兴"
+      ],
+      "question_patterns": [
+        "怎样做有梦想的少年",
+        "个人梦想与中国梦的关系"
+      ],
+      "status": "verified",
+      "lesson": "第三课 梦想始于当下",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 26,
+          "textbook_page": "18",
+          "locator": "做有梦想的少年，应当紧扣时代脉搏"
+        },
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 24,
+          "textbook_page": "16",
+          "locator": "只有每个人都勇于追梦、勤于圆梦"
+        }
+      ],
+      "title": "梦想紧扣时代脉搏",
+      "path": "七年级上册/03_第三课_梦想始于当下.md",
+      "anchor": "7A-L03-K04",
+      "content": "把个人梦想与祖国和时代的成长进步联系起来，努力成为担当民族复兴大任的时代新人。民族复兴为我们提供更广阔舞台，也提出更高要求。\n\n来源：教材第 18 页（PDF 第 26 页）；教材第 16 页（PDF 第 24 页）。"
+    },
+    {
+      "id": "7A-L03-K05",
+      "section": "学习成就梦想",
+      "kind": "意义",
+      "clues": [
+        "读书无用",
+        "学习意义",
+        "成就梦想"
+      ],
+      "question_patterns": [
+        "为什么学习"
+      ],
+      "status": "verified",
+      "lesson": "第三课 梦想始于当下",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 27,
+          "textbook_page": "19",
+          "locator": "学习是立身做人的永恒主题"
+        }
+      ],
+      "title": "学习的重要性",
+      "path": "七年级上册/03_第三课_梦想始于当下.md",
+      "anchor": "7A-L03-K05",
+      "content": "①学习是立身做人的永恒主题、报国为民的重要基础。\n②学习是我们现阶段的基本任务，也是成就梦想的重要路径。\n③学习能提升思想品德和精神境界，增强能力、增长智慧，让世界更广阔精彩，使我们拥有实现梦想的持续力量。\n\n来源：教材第 19 页（PDF 第 27 页）。"
+    },
+    {
+      "id": "7A-L03-K06",
+      "section": "学习成就梦想",
+      "kind": "认识",
+      "clues": [
+        "只学知识",
+        "学习内容",
+        "品德",
+        "能力"
+      ],
+      "question_patterns": [
+        "学习包括什么"
+      ],
+      "status": "verified",
+      "lesson": "第三课 梦想始于当下",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 28,
+          "textbook_page": "20",
+          "locator": "既有知识的获取，又有能力的提升、品德的培养"
+        }
+      ],
+      "title": "初中学习的内容",
+      "path": "七年级上册/03_第三课_梦想始于当下.md",
+      "anchor": "7A-L03-K06",
+      "content": "初中阶段的学习包括知识的获取、能力的提升和品德的培养等。\n\n来源：教材第 20 页（PDF 第 28 页）。"
+    },
+    {
+      "id": "7A-L03-K07",
+      "section": "学习成就梦想",
+      "kind": "认识",
+      "clues": [
+        "只在学校",
+        "家务",
+        "义工",
+        "实践",
+        "探究"
+      ],
+      "question_patterns": [
+        "哪些是学习",
+        "如何理解学习"
+      ],
+      "status": "verified",
+      "lesson": "第三课 梦想始于当下",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 28,
+          "textbook_page": "20",
+          "locator": "学习并不局限在学校"
+        }
+      ],
+      "title": "生活处处可以学习",
+      "path": "七年级上册/03_第三课_梦想始于当下.md",
+      "anchor": "7A-L03-K07",
+      "content": "学习不限于学校，生活中的所看、所听、所尝、所触、所做，都可以是学习。学习既表现为接受和掌握，也表现为探究、发现、体验和感悟。\n\n来源：教材第 20 页（PDF 第 28 页）。"
+    },
+    {
+      "id": "7A-L03-K08",
+      "section": "学习成就梦想",
+      "kind": "做法",
+      "clues": [
+        "学习兴趣",
+        "学习习惯",
+        "学习方法",
+        "学习效率",
+        "无字之书"
+      ],
+      "question_patterns": [
+        "怎样学习",
+        "怎样成就梦想"
+      ],
+      "status": "verified",
+      "lesson": "第三课 梦想始于当下",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 29,
+          "textbook_page": "21",
+          "locator": "梦想的实现，需要我们努力学习、善于学习"
+        }
+      ],
+      "title": "努力学习与善于学习",
+      "path": "七年级上册/03_第三课_梦想始于当下.md",
+      "anchor": "7A-L03-K08",
+      "content": "①发现并保持学习兴趣，自觉、主动地学习。\n②养成良好习惯，掌握科学方法，提高学习效率。\n③积极参加社会实践，到社会大课堂读好“无字之书”，获得启迪。\n\n来源：教材第 21 页（PDF 第 29 页）。"
+    },
+    {
+      "id": "7A-L03-K09",
+      "section": "学习成就梦想",
+      "kind": "做法",
+      "clues": [
+        "学以致用",
+        "服务社会",
+        "创新",
+        "民族未来"
+      ],
+      "question_patterns": [
+        "怎样运用所学",
+        "学习与国家的关系"
+      ],
+      "status": "verified",
+      "lesson": "第三课 梦想始于当下",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 29,
+          "textbook_page": "21",
+          "locator": "学习不仅关乎个人的前途和命运"
+        }
+      ],
+      "title": "学以致用与报国为民",
+      "path": "七年级上册/03_第三课_梦想始于当下.md",
+      "anchor": "7A-L03-K09",
+      "content": "学习关乎个人前途命运和民族未来发展。我们应学以致用、开拓进取、勇于创新，运用所学帮助他人、服务社会，为实现中国梦贡献力量。\n\n来源：教材第 21 页（PDF 第 29 页）。"
+    },
+    {
+      "id": "7A-L03-K10",
+      "section": "学习成就梦想",
+      "kind": "做法",
+      "clues": [
+        "空想",
+        "当下行动",
+        "不懈努力"
+      ],
+      "question_patterns": [
+        "怎样实现梦想"
+      ],
+      "status": "verified",
+      "lesson": "第三课 梦想始于当下",
+      "unit": "第一单元 少年有梦",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 30,
+          "textbook_page": "22",
+          "locator": "把梦想的蓝图一步步变为美好的现实"
+        }
+      ],
+      "title": "以实际行动追梦",
+      "path": "七年级上册/03_第三课_梦想始于当下.md",
+      "anchor": "7A-L03-K10",
+      "content": "实现梦想需要从当下做起，一往无前、不懈努力，把梦想蓝图一步步变成现实；将梦想落实到具体行动中。\n\n来源：教材第 22 页（PDF 第 30 页）。"
+    },
+    {
+      "id": "7A-L05-K01",
+      "section": "走近老师",
+      "kind": "概念",
+      "clues": [
+        "教书育人",
+        "教师使命",
+        "文明延续"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第五课 和谐的师生关系",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 43,
+          "textbook_page": "35",
+          "locator": "教师是一个神圣的职业，承担教书育人的使命"
+        }
+      ],
+      "title": "教师的职业使命",
+      "path": "七年级上册/05_第五课_和谐的师生关系.md",
+      "anchor": "7A-L05-K01",
+      "content": "教师承担教书育人的使命，对人类文明的延续发挥重要作用。\n\n来源：教材第 35 页（PDF 第 43 页）。"
+    },
+    {
+      "id": "7A-L05-K02",
+      "section": "走近老师",
+      "kind": "概念",
+      "clues": [
+        "专业人员",
+        "传播知识",
+        "塑造灵魂",
+        "文明传承"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第五课 和谐的师生关系",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 43,
+          "textbook_page": "35",
+          "locator": "教师是履行教育教学职责的专业人员"
+        }
+      ],
+      "title": "教师的专业职责与重任",
+      "path": "七年级上册/05_第五课_和谐的师生关系.md",
+      "anchor": "7A-L05-K02",
+      "content": "教师是履行教育教学职责的专业人员。作为人类文明的传承者，教师承担传播知识、传播思想、传播真理，塑造灵魂、塑造生命、塑造新人的重任。\n\n来源：教材第 35 页（PDF 第 43 页）。"
+    },
+    {
+      "id": "7A-L05-K03",
+      "section": "走近老师",
+      "kind": "意义",
+      "clues": [
+        "引路人",
+        "锤炼品格",
+        "创新思维",
+        "老师作用",
+        "互联网学习"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第五课 和谐的师生关系",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 44,
+          "textbook_page": "36",
+          "locator": "老师在我们的成长过程中发挥着不可替代的作用"
+        }
+      ],
+      "title": "老师的不可替代引路作用",
+      "path": "七年级上册/05_第五课_和谐的师生关系.md",
+      "anchor": "7A-L05-K03",
+      "content": "老师是我们锤炼品格、学习知识、创新思维、奉献祖国的引路人，在我们的成长中发挥不可替代的作用。\n\n来源：教材第 36 页（PDF 第 44 页）。"
+    },
+    {
+      "id": "7A-L05-K04",
+      "section": "走近老师",
+      "kind": "概念",
+      "clues": [
+        "四有好老师",
+        "理想信念",
+        "扎实学识",
+        "仁爱之心"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第五课 和谐的师生关系",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 44,
+          "textbook_page": "36",
+          "locator": "有理想信念、有道德情操、有扎实学识、有仁爱之心"
+        }
+      ],
+      "title": "好老师的四项要求",
+      "path": "七年级上册/05_第五课_和谐的师生关系.md",
+      "anchor": "7A-L05-K04",
+      "content": "好老师应有理想信念、有道德情操、有扎实学识、有仁爱之心。老师随着时代发展改进工作理念和方式，提高自身素养。\n\n来源：教材第 36 页（PDF 第 44 页）。"
+    },
+    {
+      "id": "7A-L05-K05",
+      "section": "走近老师",
+      "kind": "概念",
+      "clues": [
+        "教育家精神",
+        "至诚报国",
+        "因材施教",
+        "乐教爱生"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第五课 和谐的师生关系",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 45,
+          "textbook_page": "37",
+          "locator": "心有大我、至诚报国的理想信念"
+        }
+      ],
+      "title": "教育家精神",
+      "path": "七年级上册/05_第五课_和谐的师生关系.md",
+      "anchor": "7A-L05-K05",
+      "content": "①心有大我、至诚报国的理想信念。②言为士则、行为世范的道德情操。③启智润心、因材施教的育人智慧。④勤学笃行、求是创新的躬耕态度。⑤乐教爱生、甘于奉献的仁爱之心。⑥胸怀天下、以文化人的弘道追求。\n\n来源：教材第 37 页（PDF 第 45 页）。"
+    },
+    {
+      "id": "7A-L05-K06",
+      "section": "珍惜师生情谊",
+      "kind": "概念",
+      "clues": [
+        "教学相长",
+        "彼此尊重",
+        "携手共进",
+        "师生关系"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第五课 和谐的师生关系",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 46,
+          "textbook_page": "38",
+          "locator": "彼此尊重、教学相长、携手共进"
+        }
+      ],
+      "title": "理想的师生交往状态",
+      "path": "七年级上册/05_第五课_和谐的师生关系.md",
+      "anchor": "7A-L05-K06",
+      "content": "彼此尊重、教学相长、携手共进，是师生交往理想而美好的状态。老师是我们敬重的长辈和良师益友。\n\n来源：教材第 38 页（PDF 第 46 页）。"
+    },
+    {
+      "id": "7A-L05-K07",
+      "section": "珍惜师生情谊",
+      "kind": "做法",
+      "clues": [
+        "关心老师",
+        "理解老师",
+        "普通人"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第五课 和谐的师生关系",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 46,
+          "textbook_page": "38",
+          "locator": "也是有血有肉、有喜怒哀乐的普通人"
+        }
+      ],
+      "title": "主动理解和关心老师",
+      "path": "七年级上册/05_第五课_和谐的师生关系.md",
+      "anchor": "7A-L05-K07",
+      "content": "老师也是有血有肉、有喜怒哀乐的普通人，我们应主动理解、关心老师。\n\n来源：教材第 38 页（PDF 第 46 页）。"
+    },
+    {
+      "id": "7A-L05-K08",
+      "section": "珍惜师生情谊",
+      "kind": "做法",
+      "clues": [
+        "尊重老师",
+        "勤学好问",
+        "主动交流",
+        "引领指导"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第五课 和谐的师生关系",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 47,
+          "textbook_page": "39",
+          "locator": "真诚接受老师的引领和指导"
+        }
+      ],
+      "title": "真诚接受引领和指导",
+      "path": "七年级上册/05_第五课_和谐的师生关系.md",
+      "anchor": "7A-L05-K08",
+      "content": "发自内心地尊重老师，从老师的教诲中汲取成长营养，以勤学好问、积极主动的态度与老师交流。\n\n来源：教材第 39 页（PDF 第 47 页）。"
+    },
+    {
+      "id": "7A-L05-K09",
+      "section": "珍惜师生情谊",
+      "kind": "做法",
+      "clues": [
+        "老师表扬",
+        "戒骄戒躁",
+        "再接再厉"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第五课 和谐的师生关系",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 47,
+          "textbook_page": "39",
+          "locator": "老师的表扬意味着肯定、鼓励和期待"
+        }
+      ],
+      "title": "正确对待老师的表扬",
+      "path": "七年级上册/05_第五课_和谐的师生关系.md",
+      "anchor": "7A-L05-K09",
+      "content": "表扬意味着肯定、鼓励和期待，激励我们更好学习发展。应戒骄戒躁、再接再厉，争取做得更好。\n\n来源：教材第 39 页（PDF 第 47 页）。"
+    },
+    {
+      "id": "7A-L05-K10",
+      "section": "珍惜师生情谊",
+      "kind": "做法",
+      "clues": [
+        "老师批评",
+        "批评内容",
+        "良苦用心",
+        "反省自己"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第五课 和谐的师生关系",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 47,
+          "textbook_page": "39",
+          "locator": "老师的批评意味着关心、提醒和劝诫"
+        }
+      ],
+      "title": "正确对待老师的批评",
+      "path": "七年级上册/05_第五课_和谐的师生关系.md",
+      "anchor": "7A-L05-K10",
+      "content": "批评意味着关心、提醒和劝诫，帮助我们反省自己、完善自我。应把注意力放在批评的内容上，理解老师的良苦用心。\n\n来源：教材第 39 页（PDF 第 47 页）。"
+    },
+    {
+      "id": "7A-L05-K11",
+      "section": "珍惜师生情谊",
+      "kind": "做法",
+      "clues": [
+        "师生矛盾",
+        "师生冲突",
+        "主动认错",
+        "求同存异",
+        "沟通方式"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第五课 和谐的师生关系",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 47,
+          "textbook_page": "39",
+          "locator": "自我反思，冷静、客观地分析原因"
+        },
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 48,
+          "textbook_page": "40",
+          "locator": "坦诚相待，注意沟通方式"
+        }
+      ],
+      "title": "与老师发生矛盾的处理方法",
+      "path": "七年级上册/05_第五课_和谐的师生关系.md",
+      "anchor": "7A-L05-K11",
+      "content": "①自我反思，冷静客观分析原因，思考改进或沟通。②相信善意，多些宽容理解，有理恰当表达，无理主动认错。③坦诚相待，清晰冷静真诚表达，选恰当时间地点场合及表达方式。④换位思考，求同存异，尊重关心老师。\n\n来源：教材第 39 页（PDF 第 47 页）；教材第 40 页（PDF 第 48 页）。"
+    },
+    {
+      "id": "7A-L05-K12",
+      "section": "珍惜师生情谊",
+      "kind": "做法",
+      "clues": [
+        "不同风格",
+        "教师差异",
+        "适应老师",
+        "偏爱老师"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第五课 和谐的师生关系",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 49,
+          "textbook_page": "41",
+          "locator": "尊重并适应不同风格的老师"
+        }
+      ],
+      "title": "尊重并适应不同风格的老师",
+      "path": "七年级上册/05_第五课_和谐的师生关系.md",
+      "anchor": "7A-L05-K12",
+      "content": "由于年龄、专业、阅历、性格等差异，每位老师的教育教学方式有所不同。不同风格的老师都有值得学习的地方，我们应尊重并适应。\n\n来源：教材第 41 页（PDF 第 49 页）。"
+    },
+    {
+      "id": "7A-L06-K01",
+      "section": "友谊的真谛",
+      "kind": "概念",
+      "clues": [
+        "理解帮助",
+        "亲密关系",
+        "精神支持",
+        "友谊意义"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第六课 友谊之树常青",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 52,
+          "textbook_page": "44",
+          "locator": "友谊是一种亲密的关系"
+        }
+      ],
+      "title": "友谊是一种亲密的关系",
+      "path": "七年级上册/06_第六课_友谊之树常青.md",
+      "anchor": "7A-L06-K01",
+      "content": "真正的友谊给予我们理解和帮助、信任和忠诚、肯定和关心，使我们享受快乐温暖，获得精神支持和满足。\n\n来源：教材第 44 页（PDF 第 52 页）。"
+    },
+    {
+      "id": "7A-L06-K02",
+      "section": "友谊的真谛",
+      "kind": "概念",
+      "clues": [
+        "心灵相遇",
+        "物质条件",
+        "家庭背景",
+        "学业成绩",
+        "志同道合"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第六课 友谊之树常青",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 52,
+          "textbook_page": "44",
+          "locator": "友谊是一种心灵的相遇"
+        }
+      ],
+      "title": "友谊是一种心灵的相遇",
+      "path": "七年级上册/06_第六课_友谊之树常青.md",
+      "anchor": "7A-L06-K02",
+      "content": "友谊可以超越物质条件、家庭背景、学业成绩等，实现心灵沟通与契合。志趣相投、志同道合的友谊更能经受时间和风雨考验。\n\n来源：教材第 44 页（PDF 第 52 页）。"
+    },
+    {
+      "id": "7A-L06-K03",
+      "section": "友谊的真谛",
+      "kind": "概念",
+      "clues": [
+        "平等双向",
+        "只索取",
+        "朋友帮助",
+        "共同分享",
+        "相互分担"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第六课 友谊之树常青",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 53,
+          "textbook_page": "45",
+          "locator": "友谊是平等的、双向的"
+        }
+      ],
+      "title": "友谊是平等的双向的",
+      "path": "七年级上册/06_第六课_友谊之树常青.md",
+      "anchor": "7A-L06-K03",
+      "content": "接受朋友的帮助，也主动帮助对方；感受朋友的关怀，也主动关怀对方。共同分享、相互分担，在相处中体验积极情感，在交流中共同成长。\n\n来源：教材第 45 页（PDF 第 53 页）。"
+    },
+    {
+      "id": "7A-L06-K04",
+      "section": "友谊的真谛",
+      "kind": "做法",
+      "clues": [
+        "珍惜友谊",
+        "朋友变化",
+        "成长历程"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第六课 友谊之树常青",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 53,
+          "textbook_page": "45",
+          "locator": "我们应当不辜负每一段情谊"
+        }
+      ],
+      "title": "珍惜每一段情谊",
+      "path": "七年级上册/06_第六课_友谊之树常青.md",
+      "anchor": "7A-L06-K04",
+      "content": "有些朋友陪我们一程，有些朋友伴我们一生，应不辜负每一段情谊，让友谊伴随成长。\n\n来源：教材第 45 页（PDF 第 53 页）。"
+    },
+    {
+      "id": "7A-L06-K05",
+      "section": "交友的智慧",
+      "kind": "做法",
+      "clues": [
+        "志趣相投",
+        "互相劝勉",
+        "共同进步"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第六课 友谊之树常青",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 54,
+          "textbook_page": "46",
+          "locator": "朋友间要互相鼓励"
+        }
+      ],
+      "title": "志趣相投并共同进步",
+      "path": "七年级上册/06_第六课_友谊之树常青.md",
+      "anchor": "7A-L06-K05",
+      "content": "志趣相投，才能走到一起成为朋友。朋友间要互相鼓励、互相切磋、互相劝勉，共同进步。\n\n来源：教材第 46 页（PDF 第 54 页）。"
+    },
+    {
+      "id": "7A-L06-K06",
+      "section": "交友的智慧",
+      "kind": "做法",
+      "clues": [
+        "真诚热情",
+        "敞开心扉",
+        "主动表达",
+        "结交朋友"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第六课 友谊之树常青",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 54,
+          "textbook_page": "46",
+          "locator": "交友需要真诚和热情"
+        }
+      ],
+      "title": "交友需要真诚和热情",
+      "path": "七年级上册/06_第六课_友谊之树常青.md",
+      "anchor": "7A-L06-K06",
+      "content": "友谊是用心培育的结果。敞开心扉、主动表达、热情待人，抱着真诚热情的态度与他人交往，才会获得真挚友谊。\n\n来源：教材第 46 页（PDF 第 54 页）。"
+    },
+    {
+      "id": "7A-L06-K07",
+      "section": "交友的智慧",
+      "kind": "做法",
+      "clues": [
+        "慎重选择",
+        "网上交友",
+        "品德高尚",
+        "理性辨别"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第六课 友谊之树常青",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 54,
+          "textbook_page": "46",
+          "locator": "交友需要慎重选择"
+        }
+      ],
+      "title": "交友需要慎重选择",
+      "path": "七年级上册/06_第六课_友谊之树常青.md",
+      "anchor": "7A-L06-K07",
+      "content": "与品德高尚的人交朋友有助于走好成长之路。现实交友和网上交友都应学会理性辨别，慎交友、结好伴。\n\n来源：教材第 46 页（PDF 第 54 页）。"
+    },
+    {
+      "id": "7A-L06-K08",
+      "section": "交友的智慧",
+      "kind": "做法",
+      "clues": [
+        "关心朋友",
+        "尊重朋友",
+        "界限分寸",
+        "替朋友决定",
+        "追问隐私"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第六课 友谊之树常青",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 55,
+          "textbook_page": "47",
+          "locator": "交友需要学会关心和尊重对方"
+        }
+      ],
+      "title": "关心尊重朋友并把握界限",
+      "path": "七年级上册/06_第六课_友谊之树常青.md",
+      "anchor": "7A-L06-K08",
+      "content": "在朋友需要时以行动表达关心支持。同时尊重对方，把握界限和分寸，给予积极合理的建议，不能替朋友做决定。\n\n来源：教材第 47 页（PDF 第 55 页）。"
+    },
+    {
+      "id": "7A-L06-K09",
+      "section": "交友的智慧",
+      "kind": "做法",
+      "clues": [
+        "朋友矛盾",
+        "发生矛盾",
+        "朋友冲突",
+        "立即拉黑",
+        "绝交",
+        "协商"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第六课 友谊之树常青",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 55,
+          "textbook_page": "47",
+          "locator": "发生矛盾和冲突时，我们可以一起协商"
+        }
+      ],
+      "title": "协商处理朋友之间的矛盾和冲突",
+      "path": "七年级上册/06_第六课_友谊之树常青.md",
+      "anchor": "7A-L06-K09",
+      "content": "朋友相处时，矛盾和冲突有时难以避免。发生矛盾和冲突，应一起协商，寻找彼此能够接受的解决方式。\n\n来源：教材第 47 页（PDF 第 55 页）。"
+    },
+    {
+      "id": "7A-L06-K10",
+      "section": "交友的智慧",
+      "kind": "做法",
+      "clues": [
+        "拉黑",
+        "立即拉黑",
+        "绝交",
+        "稳定情绪",
+        "坦诚交流",
+        "换位思考",
+        "及时处理",
+        "勇担责任"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第六课 友谊之树常青",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 55,
+          "textbook_page": "47",
+          "locator": "在做决定前先想办法稳定自己的情绪"
+        },
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 56,
+          "textbook_page": "48",
+          "locator": "与朋友坦诚讨论，给朋友也给自己一个解释的机会"
+        }
+      ],
+      "title": "处理矛盾和冲突的五项策略",
+      "path": "七年级上册/06_第六课_友谊之树常青.md",
+      "anchor": "7A-L06-K10",
+      "content": "①保持冷静：先稳定情绪再做决定，必要时冷处理。②坦诚交流：给彼此解释机会，避免否认问题导致误解怨恨。③换位思考：从对方角度看问题。④及时处理：时间越久越难解决。⑤勇担责任：自己错了真诚道歉；对方错了向自己道歉时，要能够谅解对方。\n\n来源：教材第 47 页（PDF 第 55 页）；教材第 48 页（PDF 第 56 页）。"
+    },
+    {
+      "id": "7A-L06-K11",
+      "section": "交友的智慧",
+      "kind": "做法",
+      "clues": [
+        "讲原则",
+        "哥们义气",
+        "为朋友任何事",
+        "朋友犯错",
+        "规劝"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第六课 友谊之树常青",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 57,
+          "textbook_page": "49",
+          "locator": "交友需要讲原则"
+        }
+      ],
+      "title": "交友需要讲原则",
+      "path": "七年级上册/06_第六课_友谊之树常青.md",
+      "anchor": "7A-L06-K11",
+      "content": "信任和忠诚不等于不加分辨地为朋友做任何事。朋友做错事甚至误入歧途时，应坚持正确立场、不随波逐流，积极规劝，帮助其及时改正错误。\n\n来源：教材第 49 页（PDF 第 57 页）。"
+    },
+    {
+      "id": "7A-L06-K12",
+      "section": "交友的智慧",
+      "kind": "做法",
+      "clues": [
+        "和睦相处",
+        "所有人成朋友",
+        "以诚待人",
+        "人际关系"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第六课 友谊之树常青",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 57,
+          "textbook_page": "49",
+          "locator": "我们不可能和所有的人都成为朋友"
+        }
+      ],
+      "title": "以诚待人和睦相处",
+      "path": "七年级上册/06_第六课_友谊之树常青.md",
+      "anchor": "7A-L06-K12",
+      "content": "不可能与所有人都成为朋友，但应以诚待人，同大家和睦相处，构建和谐的人际关系。\n\n来源：教材第 49 页（PDF 第 57 页）。"
+    },
+    {
+      "id": "7A-L07-K01",
+      "section": "集体生活成就我",
+      "kind": "概念",
+      "clues": [
+        "有组织整体",
+        "简单相加",
+        "集体含义",
+        "集体需要"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第七课 在集体中成长",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 58,
+          "textbook_page": "50",
+          "locator": "集体不是个体的简单相加"
+        }
+      ],
+      "title": "集体的含义及个人需要",
+      "path": "七年级上册/07_第七课_在集体中成长.md",
+      "anchor": "7A-L07-K01",
+      "content": "集体不是个体的简单相加，而是人们联合起来的有组织的整体。每个人都有过集体生活的需要，集体生活在某种程度上可以影响甚至改变一个人。\n\n来源：教材第 50 页（PDF 第 58 页）。"
+    },
+    {
+      "id": "7A-L07-K02",
+      "section": "集体生活成就我",
+      "kind": "意义",
+      "clues": [
+        "集体温暖",
+        "安全感",
+        "归属感",
+        "团结互助"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第七课 在集体中成长",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 59,
+          "textbook_page": "51",
+          "locator": "集体生活能带给我们温暖"
+        }
+      ],
+      "title": "集体生活带来温暖",
+      "path": "七年级上册/07_第七课_在集体中成长.md",
+      "anchor": "7A-L07-K02",
+      "content": "一般来说，集体联结度越高，个体感受到的温暖越多。成员相互体贴、团结互助，传递关爱温暖，带来安全感和归属感。\n\n来源：教材第 51 页（PDF 第 59 页）。"
+    },
+    {
+      "id": "7A-L07-K03",
+      "section": "集体生活成就我",
+      "kind": "概念",
+      "clues": [
+        "联结度",
+        "共同目标",
+        "默契",
+        "交流频率"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第七课 在集体中成长",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 59,
+          "textbook_page": "51",
+          "locator": "集体的联结度通常与以下因素密切相关"
+        }
+      ],
+      "title": "影响集体联结度的因素",
+      "path": "七年级上册/07_第七课_在集体中成长.md",
+      "anchor": "7A-L07-K03",
+      "content": "集体联结度通常与成员相互关联程度、集体对成员的重要性、交流频率、共同目标共识、默契程度、集体存在时间有关。通常这些因素赋值越大，联结度越高。\n\n来源：教材第 51 页（PDF 第 59 页）。"
+    },
+    {
+      "id": "7A-L07-K04",
+      "section": "集体生活成就我",
+      "kind": "意义",
+      "clues": [
+        "与人交往",
+        "接纳尊重",
+        "理解包容",
+        "集体作用"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第七课 在集体中成长",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 60,
+          "textbook_page": "52",
+          "locator": "集体生活有助于我们学会与人交往"
+        }
+      ],
+      "title": "集体生活促进与人交往",
+      "path": "七年级上册/07_第七课_在集体中成长.md",
+      "anchor": "7A-L07-K04",
+      "content": "集体搭建交往平台，使我们学会接纳尊重、理解包容，彼此友好相处。\n\n来源：教材第 52 页（PDF 第 60 页）。"
+    },
+    {
+      "id": "7A-L07-K05",
+      "section": "集体生活成就我",
+      "kind": "意义",
+      "clues": [
+        "责任感",
+        "角色职责",
+        "有担当",
+        "认真做事"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第七课 在集体中成长",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 60,
+          "textbook_page": "52",
+          "locator": "集体生活有助于培养我们的责任感"
+        }
+      ],
+      "title": "集体生活培养责任感",
+      "path": "七年级上册/07_第七课_在集体中成长.md",
+      "anchor": "7A-L07-K05",
+      "content": "每个人在集体中有不同角色和职责。在认真做事中体现自身价值、体验责任感，做有担当的人。\n\n来源：教材第 52 页（PDF 第 60 页）。"
+    },
+    {
+      "id": "7A-L07-K06",
+      "section": "集体生活成就我",
+      "kind": "意义",
+      "clues": [
+        "发展个性",
+        "他人优点",
+        "优势特长",
+        "个性差异"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第七课 在集体中成长",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 60,
+          "textbook_page": "52",
+          "locator": "集体生活有助于我们发展个性"
+        }
+      ],
+      "title": "集体生活发展个性",
+      "path": "七年级上册/07_第七课_在集体中成长.md",
+      "anchor": "7A-L07-K06",
+      "content": "人与人差异是发展个性的明镜。学习他人优点，有助于不断完善自己，发挥自身优势和特长。\n\n来源：教材第 52 页（PDF 第 60 页）。"
+    },
+    {
+      "id": "7A-L07-K07",
+      "section": "集体生活成就我",
+      "kind": "意义",
+      "clues": [
+        "共同成长",
+        "相互成就",
+        "集体发展",
+        "个人发展"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第七课 在集体中成长",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 60,
+          "textbook_page": "52",
+          "locator": "集体是我们共同成长的园地"
+        }
+      ],
+      "title": "集体与个人共同发展",
+      "path": "七年级上册/07_第七课_在集体中成长.md",
+      "anchor": "7A-L07-K07",
+      "content": "集体是共同成长的园地。集体发展推动个人提升能力、健康成长，个人在集体中展示发展自己，相互促进、相互成就、共同发展。\n\n来源：教材第 52 页（PDF 第 60 页）。"
+    },
+    {
+      "id": "7A-L07-K08",
+      "section": "共建美好集体",
+      "kind": "做法",
+      "clues": [
+        "共同愿景",
+        "集体目标",
+        "团结一致",
+        "共同使命"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第七课 在集体中成长",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 61,
+          "textbook_page": "53",
+          "locator": "建设美好集体，要确定共同的愿景"
+        }
+      ],
+      "title": "确定共同愿景",
+      "path": "七年级上册/07_第七课_在集体中成长.md",
+      "anchor": "7A-L07-K08",
+      "content": "共同愿景是集体精神动力之源和发展内驱力。共同梦想、未来向往、使命、正确价值观、一致目标追求，引领集体成员团结一致、开拓进取。\n\n来源：教材第 53 页（PDF 第 61 页）。"
+    },
+    {
+      "id": "7A-L07-K09",
+      "section": "共建美好集体",
+      "kind": "做法",
+      "clues": [
+        "主人翁",
+        "集体事务",
+        "改进建议",
+        "各负其责"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第七课 在集体中成长",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 62,
+          "textbook_page": "54",
+          "locator": "建设美好集体，要树立主人翁意识"
+        }
+      ],
+      "title": "树立主人翁意识",
+      "path": "七年级上册/07_第七课_在集体中成长.md",
+      "anchor": "7A-L07-K09",
+      "content": "主动作为、各负其责、各尽其能。积极参与集体事务并共同商定；对问题不足以恰当方式表达意见，提出改进建议。\n\n来源：教材第 54 页（PDF 第 62 页）。"
+    },
+    {
+      "id": "7A-L07-K10",
+      "section": "共建美好集体",
+      "kind": "做法",
+      "clues": [
+        "共同规则",
+        "宽容理解",
+        "欺凌",
+        "集体秩序"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第七课 在集体中成长",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 62,
+          "textbook_page": "54",
+          "locator": "要营造和谐有序的集体环境"
+        }
+      ],
+      "title": "营造和谐有序的集体环境",
+      "path": "七年级上册/07_第七课_在集体中成长.md",
+      "anchor": "7A-L07-K10",
+      "content": "自觉遵守共同规则；人际交往推己及人，多些宽容理解；弘扬正气，自觉抵制并机智应对欺凌行为。\n\n来源：教材第 54 页（PDF 第 62 页）。"
+    },
+    {
+      "id": "7A-L07-K11",
+      "section": "共建美好集体",
+      "kind": "做法",
+      "clues": [
+        "合作竞争",
+        "良性竞争",
+        "勇于挑战",
+        "共同进步"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第七课 在集体中成长",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 63,
+          "textbook_page": "55",
+          "locator": "要树立正确的合作与竞争观念"
+        }
+      ],
+      "title": "正确处理合作与竞争",
+      "path": "七年级上册/07_第七课_在集体中成长.md",
+      "anchor": "7A-L07-K11",
+      "content": "集体发展既依赖相互合作，也需要良性竞争。既要敢于竞争、勇于挑战，又要善于合作、共同进步。\n\n来源：教材第 55 页（PDF 第 63 页）。"
+    },
+    {
+      "id": "7A-L07-K12",
+      "section": "共建美好集体",
+      "kind": "做法",
+      "clues": [
+        "合作策略",
+        "任务分工",
+        "包容不足",
+        "坦诚交流",
+        "自我反思"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第七课 在集体中成长",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 63,
+          "textbook_page": "55",
+          "locator": "集体生活中的合作策略"
+        }
+      ],
+      "title": "集体生活中的合作策略",
+      "path": "七年级上册/07_第七课_在集体中成长.md",
+      "anchor": "7A-L07-K12",
+      "content": "①积极开放、坦诚交流、彼此信任。②认识自己，欣赏他人优点、包容其不足。③遵守规则、明确分工、主动担责。④及时支持帮助他人。⑤经常自我反思、尝试改进。\n\n来源：教材第 55 页（PDF 第 63 页）。"
+    },
+    {
+      "id": "7A-L07-K13",
+      "section": "共建美好集体",
+      "kind": "做法",
+      "clues": [
+        "个人利益",
+        "集体利益",
+        "集体主义",
+        "正当利益",
+        "利益冲突"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第七课 在集体中成长",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 63,
+          "textbook_page": "55",
+          "locator": "要坚持集体主义原则"
+        }
+      ],
+      "title": "坚持集体主义原则",
+      "path": "七年级上册/07_第七课_在集体中成长.md",
+      "anchor": "7A-L07-K13",
+      "content": "当个人利益与集体利益冲突时，把集体利益放在个人利益之上；同时充分尊重和保障个人的正当利益，促进集体和个人不断发展。\n\n来源：教材第 55 页（PDF 第 63 页）。"
+    },
+    {
+      "id": "7A-L08-K01",
+      "section": "认识生命",
+      "kind": "意义",
+      "clues": [
+        "珍视生命",
+        "生命珍贵",
+        "珍爱生命",
+        "生命可贵"
+      ],
+      "question_patterns": [
+        "为什么要珍视生命",
+        "生命有什么意义"
+      ],
+      "status": "verified",
+      "lesson": "第八课 生命可贵",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 69,
+          "textbook_page": "61",
+          "locator": "人的生命是大自然的奇迹"
+        }
+      ],
+      "title": "生命是最为珍贵的财富",
+      "path": "七年级上册/08_第八课_生命可贵.md",
+      "anchor": "7A-L08-K01",
+      "content": "人的生命是大自然的奇迹，是地球上最为珍贵的财富。有了生命，我们才能感受自然的生机、体验多彩生活、追求幸福生活、创造人类文明。\n\n来源：教材第 61 页（PDF 第 69 页）。"
+    },
+    {
+      "id": "7A-L08-K02",
+      "section": "认识生命",
+      "kind": "特点",
+      "clues": [
+        "生命独特",
+        "不可替代",
+        "与众不同",
+        "珍视生命"
+      ],
+      "question_patterns": [
+        "怎样认识生命的独特性",
+        "为什么要珍视生命"
+      ],
+      "status": "verified",
+      "lesson": "第八课 生命可贵",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 69,
+          "textbook_page": "61",
+          "locator": "每个人的生命都是独特的"
+        }
+      ],
+      "title": "每个人的生命都是独特的",
+      "path": "七年级上册/08_第八课_生命可贵.md",
+      "anchor": "7A-L08-K02",
+      "content": "每个人外形相貌、天资禀赋等各不相同，每个生命都不可替代。成长中汲取的物质和精神养分不同，会形成独特的个性品质和不同的人生道路。\n\n来源：教材第 61 页（PDF 第 69 页）。"
+    },
+    {
+      "id": "7A-L08-K03",
+      "section": "认识生命",
+      "kind": "特点与做法",
+      "clues": [
+        "不可逆",
+        "一去不复返",
+        "珍惜时间",
+        "珍视生命"
+      ],
+      "question_patterns": [
+        "为什么要珍视生命",
+        "怎样对待生命时光"
+      ],
+      "status": "verified",
+      "lesson": "第八课 生命可贵",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 69,
+          "textbook_page": "61",
+          "locator": "每个人的生命都是不可逆的"
+        }
+      ],
+      "title": "每个人的生命都是不可逆的",
+      "path": "七年级上册/08_第八课_生命可贵.md",
+      "anchor": "7A-L08-K03",
+      "content": "生命的时光一去不复返，每个人的生命都是不可逆的。我们要珍惜生命的每一天。\n\n来源：教材第 61 页（PDF 第 69 页）。"
+    },
+    {
+      "id": "7A-L08-K04",
+      "section": "认识生命",
+      "kind": "特点",
+      "clues": [
+        "生命有限",
+        "生老病死",
+        "珍视生命"
+      ],
+      "question_patterns": [
+        "为什么要珍视生命",
+        "如何认识生命的有限性"
+      ],
+      "status": "verified",
+      "lesson": "第八课 生命可贵",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 70,
+          "textbook_page": "62",
+          "locator": "每个人的生命都是有限的"
+        }
+      ],
+      "title": "每个人的生命都是有限的",
+      "path": "七年级上册/08_第八课_生命可贵.md",
+      "anchor": "7A-L08-K04",
+      "content": "每个人的生命都是有限的，新陈代谢、生老病死是无法抗拒的规律。\n\n来源：教材第 62 页（PDF 第 70 页）。"
+    },
+    {
+      "id": "7A-L08-K05",
+      "section": "认识生命",
+      "kind": "做法",
+      "clues": [
+        "奋斗",
+        "奉献",
+        "英烈",
+        "生命的意义"
+      ],
+      "question_patterns": [
+        "如何正确对待有限的生命",
+        "怎样让生命有意义"
+      ],
+      "status": "verified",
+      "lesson": "第八课 生命可贵",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 70,
+          "textbook_page": "62",
+          "locator": "把有限的生命投入到无限的奋斗和奉献之中"
+        }
+      ],
+      "title": "有限的生命可以有无限的意义",
+      "path": "七年级上册/08_第八课_生命可贵.md",
+      "anchor": "7A-L08-K05",
+      "content": "感恩生命的获得，把有限的生命投入到无限的奋斗和奉献之中，让生命的每一段历程都精彩而有意义。英烈为国家、民族、人民利益献出生命，诠释了有限生命的无限意义。\n\n来源：教材第 62 页（PDF 第 70 页）。"
+    },
+    {
+      "id": "7A-L08-K06",
+      "section": "认识生命",
+      "kind": "特点",
+      "clues": [
+        "代代接续",
+        "个体生命",
+        "人类生命"
+      ],
+      "question_patterns": [
+        "如何理解生命的接续"
+      ],
+      "status": "verified",
+      "lesson": "第八课 生命可贵",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 70,
+          "textbook_page": "62",
+          "locator": "人的生命是代代接续的"
+        }
+      ],
+      "title": "人的生命是代代接续的",
+      "path": "七年级上册/08_第八课_生命可贵.md",
+      "anchor": "7A-L08-K06",
+      "content": "个人的生命虽然短暂，但一代又一代的个体生命实现了人类生命的接续。每个人的生命不仅是“我”的生命，还是“我们”的生命。\n\n来源：教材第 62 页（PDF 第 70 页）。"
+    },
+    {
+      "id": "7A-L08-K07",
+      "section": "认识生命",
+      "kind": "特点",
+      "clues": [
+        "精神生命",
+        "思想流传",
+        "精神传承"
+      ],
+      "question_patterns": [
+        "如何理解精神生命的传承"
+      ],
+      "status": "verified",
+      "lesson": "第八课 生命可贵",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 71,
+          "textbook_page": "63",
+          "locator": "人的精神生命是不断传承的"
+        }
+      ],
+      "title": "人的精神生命是不断传承的",
+      "path": "七年级上册/08_第八课_生命可贵.md",
+      "anchor": "7A-L08-K07",
+      "content": "伟大的思想、崇高的信仰、高尚的道德等都是精神生命的体现。在生命的传承中，人类的精神不断积淀和丰富。\n\n来源：教材第 63 页（PDF 第 71 页）。"
+    },
+    {
+      "id": "7A-L08-K08",
+      "section": "敬畏生命",
+      "kind": "原因",
+      "clues": [
+        "敬畏生命",
+        "逆行",
+        "脆弱",
+        "坚强"
+      ],
+      "question_patterns": [
+        "为什么要敬畏生命",
+        "如何认识救援者逆行"
+      ],
+      "status": "verified",
+      "lesson": "第八课 生命可贵",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 72,
+          "textbook_page": "64",
+          "locator": "生命的脆弱与艰难"
+        },
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 72,
+          "textbook_page": "64",
+          "locator": "生命的坚强、崇高和神圣"
+        }
+      ],
+      "title": "对生命要有敬畏的情怀",
+      "path": "七年级上册/08_第八课_生命可贵.md",
+      "anchor": "7A-L08-K08",
+      "content": "灾害、灾难和意外让我们感受到生命的脆弱与艰难；人们万众一心挽救、守护和悼念生命，又让我们体悟到生命的坚强、崇高和神圣。因此，我们对生命要有敬畏的情怀。\n\n来源：教材第 64 页（PDF 第 72 页）；教材第 64 页（PDF 第 72 页）。"
+    },
+    {
+      "id": "7A-L08-K09",
+      "section": "敬畏生命",
+      "kind": "做法",
+      "clues": [
+        "遵循规律",
+        "珍视生命",
+        "自然规律"
+      ],
+      "question_patterns": [
+        "怎样敬畏生命"
+      ],
+      "status": "verified",
+      "lesson": "第八课 生命可贵",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 72,
+          "textbook_page": "64",
+          "locator": "尊重并遵循生命存在和发展的规律"
+        }
+      ],
+      "title": "敬畏生命要遵循生命规律",
+      "path": "七年级上册/08_第八课_生命可贵.md",
+      "anchor": "7A-L08-K09",
+      "content": "尊重并遵循生命存在和发展的规律。我们的生命是大自然的组成部分，效法天地自然、遵循自然界的规律，是对生命最好的珍视和善待。\n\n来源：教材第 64 页（PDF 第 72 页）。"
+    },
+    {
+      "id": "7A-L08-K10",
+      "section": "敬畏生命",
+      "kind": "做法",
+      "clues": [
+        "关爱他人",
+        "让座",
+        "陪伴",
+        "善待他人"
+      ],
+      "question_patterns": [
+        "怎样敬畏生命",
+        "如何关爱他人生命"
+      ],
+      "status": "verified",
+      "lesson": "第八课 生命可贵",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 73,
+          "textbook_page": "65",
+          "locator": "敬畏生命，就要关爱他人的生命"
+        }
+      ],
+      "title": "敬畏生命要关爱他人的生命",
+      "path": "七年级上册/08_第八课_生命可贵.md",
+      "anchor": "7A-L08-K10",
+      "content": "既要珍惜自己的生命，又要关爱他人的生命；谨慎地对待生命关系、处理生命问题，尊重、关怀和善待他人。\n\n来源：教材第 65 页（PDF 第 73 页）。"
+    },
+    {
+      "id": "7A-L08-K11",
+      "section": "敬畏生命",
+      "kind": "原则与做法",
+      "clues": [
+        "生命至上",
+        "人民至上",
+        "生命重于泰山",
+        "珍视生命",
+        "金钱"
+      ],
+      "question_patterns": [
+        "怎样敬畏生命",
+        "为什么要珍视生命"
+      ],
+      "status": "verified",
+      "lesson": "第八课 生命可贵",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 73,
+          "textbook_page": "65",
+          "locator": "坚持人民至上、生命至上"
+        }
+      ],
+      "title": "坚持人民至上、生命至上",
+      "path": "七年级上册/08_第八课_生命可贵.md",
+      "anchor": "7A-L08-K11",
+      "content": "生命重于泰山，每个人的生命都比金钱、权势等身外之物更为重要。敬畏生命要坚持人民至上、生命至上；当人民生命受到天灾人祸威胁时，要竭尽全力挽救和保护最广大人民的生命。\n\n来源：教材第 65 页（PDF 第 73 页）。"
+    },
+    {
+      "id": "7A-L08-K12",
+      "section": "敬畏生命·启思导行",
+      "kind": "意义",
+      "clues": [
+        "因为敬畏所以无畏",
+        "心存敬畏行有所止",
+        "鲁莽"
+      ],
+      "question_patterns": [
+        "敬畏生命有什么作用"
+      ],
+      "status": "verified",
+      "lesson": "第八课 生命可贵",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 74,
+          "textbook_page": "66",
+          "locator": "在行动前思考后果"
+        },
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 74,
+          "textbook_page": "66",
+          "locator": "以无畏的态度追求更高的生命价值"
+        }
+      ],
+      "title": "敬畏之心指导生命行动",
+      "path": "七年级上册/08_第八课_生命可贵.md",
+      "anchor": "7A-L08-K12",
+      "content": "怀有敬畏之心，会促使我们珍视生命，行动前思考后果，保持良好判断力，避免鲁莽行事和不负责任的决策；也会鼓励我们勇敢面对挑战，追求更高的生命价值。\n\n来源：教材第 66 页（PDF 第 74 页）；教材第 66 页（PDF 第 74 页）。"
+    },
+    {
+      "id": "7A-L09-K01",
+      "section": "增强安全意识",
+      "kind": "意义",
+      "clues": [
+        "生命安全",
+        "灾难事故"
+      ],
+      "question_patterns": [
+        "为什么要守护生命安全"
+      ],
+      "status": "verified",
+      "lesson": "第九课 守护生命安全",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 75,
+          "textbook_page": "67",
+          "locator": "生命安全是维系人的生命存在的条件和保障"
+        }
+      ],
+      "title": "生命安全的重要性",
+      "path": "七年级上册/09_第九课_守护生命安全.md",
+      "anchor": "7A-L09-K01",
+      "content": "生命安全是维系人的生命存在的条件和保障，也是创造和享受一切美好的前提。灾难、事故可能危害人的生存、健康和幸福，甚至毁灭生命。\n\n来源：教材第 67 页（PDF 第 75 页）。"
+    },
+    {
+      "id": "7A-L09-K02",
+      "section": "增强安全意识",
+      "kind": "做法",
+      "clues": [
+        "安全意识",
+        "警觉",
+        "戒备",
+        "侥幸"
+      ],
+      "question_patterns": [
+        "如何增强安全意识"
+      ],
+      "status": "verified",
+      "lesson": "第九课 守护生命安全",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 76,
+          "textbook_page": "68",
+          "locator": "我们要牢固树立安全意识"
+        }
+      ],
+      "title": "牢固树立安全意识",
+      "path": "七年级上册/09_第九课_守护生命安全.md",
+      "anchor": "7A-L09-K02",
+      "content": "对可能伤害自己或他人的外在环境、人为侵害保持警觉和戒备，保护好生命。\n\n来源：教材第 68 页（PDF 第 76 页）。"
+    },
+    {
+      "id": "7A-L09-K03",
+      "section": "增强安全意识",
+      "kind": "做法",
+      "clues": [
+        "规则意识",
+        "禁令",
+        "限制",
+        "安全须知"
+      ],
+      "question_patterns": [
+        "为什么要遵守安全规则",
+        "怎样保护生命安全"
+      ],
+      "status": "verified",
+      "lesson": "第九课 守护生命安全",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 76,
+          "textbook_page": "68",
+          "locator": "树立规则意识"
+        }
+      ],
+      "title": "树立规则意识",
+      "path": "七年级上册/09_第九课_守护生命安全.md",
+      "anchor": "7A-L09-K03",
+      "content": "生活中的许多“禁令”是对自由和生命安全的保障。要自觉遵守规则，恰当评估自身行为是否安全，及时纠正不当行为，有效保护生命。\n\n来源：教材第 68 页（PDF 第 76 页）。"
+    },
+    {
+      "id": "7A-L09-K04",
+      "section": "增强安全意识",
+      "kind": "做法",
+      "clues": [
+        "风险意识",
+        "好奇",
+        "危险",
+        "有备无患"
+      ],
+      "question_patterns": [
+        "如何增强风险意识"
+      ],
+      "status": "verified",
+      "lesson": "第九课 守护生命安全",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 77,
+          "textbook_page": "69",
+          "locator": "增强风险意识"
+        }
+      ],
+      "title": "增强风险意识",
+      "path": "七年级上册/09_第九课_守护生命安全.md",
+      "anchor": "7A-L09-K04",
+      "content": "觉察潜在的威胁生命安全的因素，不因好奇做危险的事情，也不盲目触碰危险领域；远离危险，平安生活。\n\n来源：教材第 69 页（PDF 第 77 页）。"
+    },
+    {
+      "id": "7A-L09-K05",
+      "section": "增强安全意识",
+      "kind": "意义与做法",
+      "clues": [
+        "安全责任",
+        "影响他人",
+        "家庭社会"
+      ],
+      "question_patterns": [
+        "守护安全是谁的责任"
+      ],
+      "status": "verified",
+      "lesson": "第九课 守护生命安全",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 77,
+          "textbook_page": "69",
+          "locator": "安全与每个人息息相关"
+        }
+      ],
+      "title": "承担对自己、家庭和社会的安全责任",
+      "path": "七年级上册/09_第九课_守护生命安全.md",
+      "anchor": "7A-L09-K05",
+      "content": "我们所做的事情不仅影响自己，也影响他人。用心做好事关安全的每一件事，既是对自己的生命安全负责，也是对家庭和社会负责。\n\n来源：教材第 69 页（PDF 第 77 页）。"
+    },
+    {
+      "id": "7A-L09-K06",
+      "section": "提高防护能力",
+      "kind": "做法",
+      "clues": [
+        "自救互救",
+        "防护能力",
+        "自然灾害"
+      ],
+      "question_patterns": [
+        "如何提高防护能力"
+      ],
+      "status": "verified",
+      "lesson": "第九课 守护生命安全",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 78,
+          "textbook_page": "70",
+          "locator": "拥有科学的自救互救能力"
+        }
+      ],
+      "title": "掌握科学的自救互救方法",
+      "path": "七年级上册/09_第九课_守护生命安全.md",
+      "anchor": "7A-L09-K06",
+      "content": "面对自然灾害、事故灾难、公共卫生事件等，要掌握有效应对方法，拥有科学的自救互救能力，保护自己的生命，救助他人的生命。\n\n来源：教材第 70 页（PDF 第 78 页）。"
+    },
+    {
+      "id": "7A-L09-K07",
+      "section": "提高防护能力",
+      "kind": "做法",
+      "clues": [
+        "危险预判",
+        "暴雨隧道",
+        "见微知著",
+        "防患于未然"
+      ],
+      "question_patterns": [
+        "怎样提高危险预判能力"
+      ],
+      "status": "verified",
+      "lesson": "第九课 守护生命安全",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 79,
+          "textbook_page": "71",
+          "locator": "提高危险预判能力"
+        }
+      ],
+      "title": "提高危险预判能力",
+      "path": "七年级上册/09_第九课_守护生命安全.md",
+      "anchor": "7A-L09-K07",
+      "content": "危险预判能力需要培养。要在日常生活中主动学习安全知识，见微知著，对潜在危险作出科学判断，防患于未然。自然灾害前往往有兆可循，一些人为事故经得当考虑可以避免。\n\n来源：教材第 71 页（PDF 第 79 页）。"
+    },
+    {
+      "id": "7A-L09-K08",
+      "section": "提高防护能力",
+      "kind": "做法",
+      "clues": [
+        "安全演练",
+        "避险",
+        "逃生",
+        "头脑冷静"
+      ],
+      "question_patterns": [
+        "怎样提高避险和逃生能力"
+      ],
+      "status": "verified",
+      "lesson": "第九课 守护生命安全",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 80,
+          "textbook_page": "72",
+          "locator": "提高避险和逃生能力"
+        }
+      ],
+      "title": "提高避险和逃生能力",
+      "path": "七年级上册/09_第九课_守护生命安全.md",
+      "anchor": "7A-L09-K08",
+      "content": "平时积极参加安全演练；危险来临时保持冷静，就近、快速逃离到安全地带，并有效利用各种资源求救和逃生。\n\n来源：教材第 72 页（PDF 第 80 页）。"
+    },
+    {
+      "id": "7A-L09-K09",
+      "section": "提高防护能力",
+      "kind": "做法与意义",
+      "clues": [
+        "急救知识",
+        "紧急救护",
+        "挽救生命"
+      ],
+      "question_patterns": [
+        "为什么要学习防护急救技能"
+      ],
+      "status": "verified",
+      "lesson": "第九课 守护生命安全",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 80,
+          "textbook_page": "72",
+          "locator": "学习防护和急救的知识与技能"
+        }
+      ],
+      "title": "学习防护和急救知识与技能",
+      "path": "七年级上册/09_第九课_守护生命安全.md",
+      "anchor": "7A-L09-K09",
+      "content": "平时掌握防护和急救知识与技能，紧急救护时才能避免束手无策，争分夺秒地施救，为挽救生命赢得宝贵时间。\n\n来源：教材第 72 页（PDF 第 80 页）。"
+    },
+    {
+      "id": "7A-L09-K10",
+      "section": "提高防护能力·方法与技能",
+      "kind": "做法",
+      "clues": [
+        "拥挤踩踏",
+        "人流裹挟",
+        "踩踏自护"
+      ],
+      "question_patterns": [
+        "怎样预防和应对拥挤踩踏"
+      ],
+      "status": "verified",
+      "lesson": "第九课 守护生命安全",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 80,
+          "textbook_page": "72",
+          "locator": "拥挤踩踏事件的预防与自护方法"
+        }
+      ],
+      "title": "拥挤踩踏事件的预防与自护",
+      "path": "七年级上册/09_第九课_守护生命安全.md",
+      "anchor": "7A-L09-K10",
+      "content": "①上下楼梯、台阶抓牢扶手，不凑热闹、不在人流量大处停留，不制造恐慌。\n②人群蜂拥而来时，不盲目奔跑或逆流前进，避让到一旁，靠墙或抓住牢固物体，待人群过去后离开。\n③被人流裹挟时稳住双脚保持平衡，一手握另一手手腕，手肘撑开、平放胸前，微微前弯形成呼吸空间。\n④防止绊倒，不贸然弯腰提鞋或系鞋带；摔倒无法站起时蜷缩成球状，双手护颈、手臂护头、双膝蜷至胸前，护住胸腔和腹腔。\n\n来源：教材第 72 页（PDF 第 80 页）。"
+    },
+    {
+      "id": "7A-L09-K11",
+      "section": "提高防护能力·生活观察",
+      "kind": "做法",
+      "clues": [
+        "公共卫生安全",
+        "手卫生",
+        "公筷",
+        "通风"
+      ],
+      "question_patterns": [
+        "怎样维护公共卫生安全"
+      ],
+      "status": "verified",
+      "lesson": "第九课 守护生命安全",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 78,
+          "textbook_page": "70",
+          "locator": "公共卫生安全包括疾病预防控制"
+        },
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 78,
+          "textbook_page": "70",
+          "locator": "做好免疫接种"
+        }
+      ],
+      "title": "维护公共卫生安全",
+      "path": "七年级上册/09_第九课_守护生命安全.md",
+      "anchor": "7A-L09-K11",
+      "content": "公共卫生安全包括疾病预防控制、环境卫生、食品安全等，保障身体健康和生命安全。教材图示列举的做法有：做好免疫接种，注意手卫生，勤开窗通风，分餐制、用公筷，正确处理有害垃圾。\n\n来源：教材第 70 页（PDF 第 78 页）；教材第 70 页（PDF 第 78 页）。"
+    },
+    {
+      "id": "7A-L10-K01",
+      "section": "爱护身体",
+      "kind": "意义",
+      "clues": [
+        "身心健康",
+        "生命质量",
+        "强健体魄"
+      ],
+      "question_patterns": [
+        "为什么要保持身心健康"
+      ],
+      "status": "verified",
+      "lesson": "第十课 保持身心健康",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 82,
+          "textbook_page": "74",
+          "locator": "保持身心健康是提高生命质量的关键"
+        }
+      ],
+      "title": "身心健康是提高生命质量的关键",
+      "path": "七年级上册/10_第十课_保持身心健康.md",
+      "anchor": "7A-L10-K01",
+      "content": "强健的体魄有助于保持充沛精力和蓬勃朝气；健康的心理与丰富的精神世界有助于保持积极生活态度和良好人际关系，看到更多希望和光彩。保持身心健康是提高生命质量的关键。\n\n来源：教材第 74 页（PDF 第 82 页）。"
+    },
+    {
+      "id": "7A-L10-K02",
+      "section": "爱护身体",
+      "kind": "意义与责任",
+      "clues": [
+        "第一责任人",
+        "身体健康",
+        "爱护身体"
+      ],
+      "question_patterns": [
+        "为什么要爱护身体"
+      ],
+      "status": "verified",
+      "lesson": "第十课 保持身心健康",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 83,
+          "textbook_page": "75",
+          "locator": "身体是生命存在的根本"
+        }
+      ],
+      "title": "做自身健康的第一责任人",
+      "path": "七年级上册/10_第十课_保持身心健康.md",
+      "anchor": "7A-L10-K02",
+      "content": "身体是生命存在的根本。身体健康关系个人成长和发展、家庭生活质量、国家人口素质和社会发展。爱护身体是对生命负责任的态度，我们要做自身健康的第一责任人。\n\n来源：教材第 75 页（PDF 第 83 页）。"
+    },
+    {
+      "id": "7A-L10-K03",
+      "section": "爱护身体",
+      "kind": "做法",
+      "clues": [
+        "身体状况",
+        "体检",
+        "健康信息",
+        "科学就医"
+      ],
+      "question_patterns": [
+        "怎样爱护身体"
+      ],
+      "status": "verified",
+      "lesson": "第十课 保持身心健康",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 83,
+          "textbook_page": "75",
+          "locator": "应当关注自己的身体状况"
+        }
+      ],
+      "title": "关注自己的身体状况",
+      "path": "七年级上册/10_第十课_保持身心健康.md",
+      "anchor": "7A-L10-K03",
+      "content": "关注并记录健康状况，定期体检，合理利用卫生保健服务；主动获取健康信息，知道生理健康基本标准，判断身体是否正常；如有不适及时科学就医。\n\n来源：教材第 75 页（PDF 第 83 页）。"
+    },
+    {
+      "id": "7A-L10-K04",
+      "section": "爱护身体",
+      "kind": "做法",
+      "clues": [
+        "健康生活方式",
+        "熬夜",
+        "自律",
+        "不良嗜好"
+      ],
+      "question_patterns": [
+        "怎样养成健康生活方式",
+        "怎样爱护身体"
+      ],
+      "status": "verified",
+      "lesson": "第十课 保持身心健康",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 84,
+          "textbook_page": "76",
+          "locator": "应当养成健康的生活方式"
+        }
+      ],
+      "title": "养成健康的生活方式",
+      "path": "七年级上册/10_第十课_保持身心健康.md",
+      "anchor": "7A-L10-K04",
+      "content": "自觉自律，注重饮食有节、起居有常、动静结合，杜绝不良嗜好。\n\n来源：教材第 76 页（PDF 第 84 页）。"
+    },
+    {
+      "id": "7A-L10-K05",
+      "section": "爱护身体",
+      "kind": "做法与意义",
+      "clues": [
+        "体育锻炼",
+        "强健体魄",
+        "运动负荷",
+        "磨炼意志"
+      ],
+      "question_patterns": [
+        "怎样科学锻炼身体",
+        "体育锻炼有什么意义"
+      ],
+      "status": "verified",
+      "lesson": "第十课 保持身心健康",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 84,
+          "textbook_page": "76",
+          "locator": "应当积极、主动、科学地锻炼身体"
+        }
+      ],
+      "title": "科学锻炼身体、强健体魄",
+      "path": "七年级上册/10_第十课_保持身心健康.md",
+      "anchor": "7A-L10-K05",
+      "content": "积极、主动、科学地锻炼身体，参加适合自己的体育锻炼，选择合理运动负荷，提高免疫力和对自然环境的适应能力，预防并减少疾病；享受健身乐趣，磨炼意志，健全人格。\n\n来源：教材第 76 页（PDF 第 84 页）。"
+    },
+    {
+      "id": "7A-L10-K06",
+      "section": "爱护身体·方法与技能",
+      "kind": "做法",
+      "clues": [
+        "科学健身",
+        "适度运动",
+        "科学热身",
+        "健康心态"
+      ],
+      "question_patterns": [
+        "科学健身有哪些方法"
+      ],
+      "status": "verified",
+      "lesson": "第十课 保持身心健康",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 84,
+          "textbook_page": "76",
+          "locator": "科学健身有方法"
+        }
+      ],
+      "title": "科学健身的方法",
+      "path": "七年级上册/10_第十课_保持身心健康.md",
+      "anchor": "7A-L10-K06",
+      "content": "①多样化运动，采用有氧运动、力量训练等多种形式。\n②根据身体状况选择合适运动量和强度。\n③运动前科学热身，如慢跑、伸展。\n④饮食均衡、多样，补充足够水分。\n⑤保持积极健康心态，享受乐趣、关注过程，不过于关注结果。\n\n来源：教材第 76 页（PDF 第 84 页）。"
+    },
+    {
+      "id": "7A-L10-K07",
+      "section": "滋养心灵",
+      "kind": "意义",
+      "clues": [
+        "内心世界",
+        "滋养心灵",
+        "幸福生活"
+      ],
+      "question_patterns": [
+        "为什么要滋养心灵"
+      ],
+      "status": "verified",
+      "lesson": "第十课 保持身心健康",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 85,
+          "textbook_page": "77",
+          "locator": "拥有健康、和谐的内心世界"
+        }
+      ],
+      "title": "健康、和谐的内心世界是幸福生活的重要支柱",
+      "path": "七年级上册/10_第十课_保持身心健康.md",
+      "anchor": "7A-L10-K07",
+      "content": "良好生命状态既需要健康身体，也需要健康心理和丰富精神。健康、和谐的内心世界是幸福生活的重要支柱。\n\n来源：教材第 77 页（PDF 第 85 页）。"
+    },
+    {
+      "id": "7A-L10-K08",
+      "section": "滋养心灵",
+      "kind": "概念",
+      "clues": [
+        "心理健康",
+        "社会适应",
+        "个人潜能"
+      ],
+      "question_patterns": [
+        "什么是心理健康"
+      ],
+      "status": "verified",
+      "lesson": "第十课 保持身心健康",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 86,
+          "textbook_page": "78",
+          "locator": "心理健康是一种良好而持续的心理状态"
+        }
+      ],
+      "title": "心理健康的含义和表现",
+      "path": "七年级上册/10_第十课_保持身心健康.md",
+      "anchor": "7A-L10-K08",
+      "content": "心理健康是一种良好而持续的心理状态，表现为具有生命活力、积极内心体验、良好社会适应能力，并能有效激发个人潜能。\n\n来源：教材第 78 页（PDF 第 86 页）。"
+    },
+    {
+      "id": "7A-L10-K09",
+      "section": "滋养心灵",
+      "kind": "做法",
+      "clues": [
+        "自我调节",
+        "专业帮助",
+        "心理咨询",
+        "失去自信"
+      ],
+      "question_patterns": [
+        "如何保持心理健康"
+      ],
+      "status": "verified",
+      "lesson": "第十课 保持身心健康",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 86,
+          "textbook_page": "78",
+          "locator": "主动学习心理健康知识"
+        }
+      ],
+      "title": "学习调节方法并寻求专业帮助",
+      "path": "七年级上册/10_第十课_保持身心健康.md",
+      "anchor": "7A-L10-K09",
+      "content": "主动学习心理健康知识，掌握自我调节方法，必要时积极寻求专业帮助，改善心理状况，促进心理健康。\n\n来源：教材第 78 页（PDF 第 86 页）。"
+    },
+    {
+      "id": "7A-L10-K10",
+      "section": "滋养心灵",
+      "kind": "做法",
+      "clues": [
+        "生命韧性",
+        "挫折",
+        "困难",
+        "顽强不屈"
+      ],
+      "question_patterns": [
+        "怎样增强生命韧性"
+      ],
+      "status": "verified",
+      "lesson": "第十课 保持身心健康",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 86,
+          "textbook_page": "78",
+          "locator": "磨炼意志，增强生命韧性"
+        }
+      ],
+      "title": "磨炼意志、增强生命韧性",
+      "path": "七年级上册/10_第十课_保持身心健康.md",
+      "anchor": "7A-L10-K10",
+      "content": "成长会遇到挫折和困难。要清醒认识自己的行为和目标，以顽强不屈的精神、百折不挠的毅力勇往直前，战胜挫折和困难。\n\n来源：教材第 78 页（PDF 第 86 页）。"
+    },
+    {
+      "id": "7A-L10-K11",
+      "section": "滋养心灵·方法与技能",
+      "kind": "做法",
+      "clues": [
+        "接纳挫折",
+        "幽默感",
+        "兴趣爱好",
+        "长远发展",
+        "生命韧性"
+      ],
+      "question_patterns": [
+        "增强生命韧性有哪些方法"
+      ],
+      "status": "verified",
+      "lesson": "第十课 保持身心健康",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 86,
+          "textbook_page": "78",
+          "locator": "增强生命韧性的方法"
+        },
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 87,
+          "textbook_page": "79",
+          "locator": "培养兴趣爱好"
+        }
+      ],
+      "title": "增强生命韧性的六种方法",
+      "path": "七年级上册/10_第十课_保持身心健康.md",
+      "anchor": "7A-L10-K11",
+      "content": "①说服自己接纳挫折，接受挫折带来的影响。\n②培养幽默感，缓解压力、体悟生活智慧。\n③向父母、老师或专业心理咨询师等可信任的人求助，获得支持和建议。\n④培养兴趣爱好并发展为专长，增强自信和抗挫力。\n⑤眼光放长远，制订清晰规划并努力实现。\n⑥关心帮助他人，向处境不利的人提供帮助。\n\n来源：教材第 78 页（PDF 第 86 页）；教材第 79 页（PDF 第 87 页）。"
+    },
+    {
+      "id": "7A-L10-K12",
+      "section": "滋养心灵",
+      "kind": "做法",
+      "clues": [
+        "精神世界",
+        "学知识",
+        "长见识",
+        "练胆识",
+        "生活实践"
+      ],
+      "question_patterns": [
+        "怎样滋养心灵",
+        "如何丰富精神世界"
+      ],
+      "status": "verified",
+      "lesson": "第十课 保持身心健康",
+      "unit": "第三单元 珍爱我们的生命",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 87,
+          "textbook_page": "79",
+          "locator": "不断丰富自己的精神世界"
+        }
+      ],
+      "title": "不断丰富自己的精神世界",
+      "path": "七年级上册/10_第十课_保持身心健康.md",
+      "anchor": "7A-L10-K12",
+      "content": "学知识、长见识、练胆识，提升底气与能力；在生活实践中扩展生活阅历、提升人生境界，让生命充满色彩与活力。\n\n来源：教材第 79 页（PDF 第 87 页）。"
+    },
+    {
+      "id": "7A-L11-K01",
+      "section": "探问人生目标",
+      "kind": "认识",
+      "clues": [
+        "主动规划",
+        "人生规划",
+        "有意识",
+        "有目的"
+      ],
+      "question_patterns": [
+        "人为什么可以规划人生"
+      ],
+      "status": "verified",
+      "lesson": "第十一课 确立人生目标",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 93,
+          "textbook_page": "85",
+          "locator": "人能够积极主动地规划人生"
+        }
+      ],
+      "title": "人能够主动规划人生",
+      "path": "七年级上册/11_第十一课_确立人生目标.md",
+      "anchor": "7A-L11-K01",
+      "content": "人的活动是有意识、有目的的活动。人能够积极主动地规划人生，确立自己的人生目标，过有意识、有目的的生活。\n\n来源：教材第 85 页（PDF 第 93 页）。"
+    },
+    {
+      "id": "7A-L11-K02",
+      "section": "探问人生目标",
+      "kind": "概念",
+      "clues": [
+        "人生目标",
+        "向往和追求",
+        "人生方向"
+      ],
+      "question_patterns": [
+        "什么是人生目标",
+        "人生目标有什么作用"
+      ],
+      "status": "verified",
+      "lesson": "第十一课 确立人生目标",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 93,
+          "textbook_page": "85",
+          "locator": "决定着人生道路的发展方向"
+        }
+      ],
+      "title": "人生目标的含义与方向作用",
+      "path": "七年级上册/11_第十一课_确立人生目标.md",
+      "anchor": "7A-L11-K02",
+      "content": "人生目标体现着人在社会实践中对未来的向往和追求，决定着人生道路的发展方向。\n\n来源：教材第 85 页（PDF 第 93 页）。"
+    },
+    {
+      "id": "7A-L11-K03",
+      "section": "探问人生目标",
+      "kind": "意义",
+      "clues": [
+        "目标激励",
+        "排除干扰",
+        "克服困难",
+        "少走弯路"
+      ],
+      "question_patterns": [
+        "为什么要确立正确的人生目标"
+      ],
+      "status": "verified",
+      "lesson": "第十一课 确立人生目标",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 93,
+          "textbook_page": "85",
+          "locator": "稳定而持久的内在激励"
+        }
+      ],
+      "title": "正确人生目标的激励和指引作用",
+      "path": "七年级上册/11_第十一课_确立人生目标.md",
+      "anchor": "7A-L11-K03",
+      "content": "正确的人生目标会带来稳定而持久的内在激励，让我们排除干扰、克服困难、坚定前行、少走弯路，指引我们走上正确的人生道路。\n\n来源：教材第 85 页（PDF 第 93 页）。"
+    },
+    {
+      "id": "7A-L11-K04",
+      "section": "探问人生目标",
+      "kind": "概念",
+      "clues": [
+        "近期目标",
+        "长远目标",
+        "人生目标分类"
+      ],
+      "question_patterns": [
+        "人生目标分为哪两类"
+      ],
+      "status": "verified",
+      "lesson": "第十一课 确立人生目标",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 94,
+          "textbook_page": "86",
+          "locator": "人生目标可以分为近期目标和长远目标"
+        }
+      ],
+      "title": "人生目标的分类",
+      "path": "七年级上册/11_第十一课_确立人生目标.md",
+      "anchor": "7A-L11-K04",
+      "content": "人生目标可以分为近期目标和长远目标。\n\n来源：教材第 86 页（PDF 第 94 页）。"
+    },
+    {
+      "id": "7A-L11-K05",
+      "section": "探问人生目标",
+      "kind": "关系",
+      "clues": [
+        "近期目标",
+        "长远目标",
+        "分阶段",
+        "成就感",
+        "一步步"
+      ],
+      "question_patterns": [
+        "怎样实现长远目标",
+        "近期目标与长远目标有什么关系"
+      ],
+      "status": "verified",
+      "lesson": "第十一课 确立人生目标",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 94,
+          "textbook_page": "86",
+          "locator": "只有分阶段实现一个个近期目标"
+        }
+      ],
+      "title": "近期目标与长远目标的关系",
+      "path": "七年级上册/11_第十一课_确立人生目标.md",
+      "anchor": "7A-L11-K05",
+      "content": "所有近期目标都应该围绕长远目标展开。只有分阶段实现一个个近期目标，才能实现长远目标。实现每一个近期目标带来的成就感和喜悦感，会鼓舞我们继续奋发向上，朝着实现长远目标迈进。\n\n来源：教材第 86 页（PDF 第 94 页）。"
+    },
+    {
+      "id": "7A-L11-K06",
+      "section": "树立正确的人生目标",
+      "kind": "条件",
+      "clues": [
+        "个人与社会",
+        "个人发展",
+        "社会需要"
+      ],
+      "question_patterns": [
+        "树立人生目标的必要前提是什么"
+      ],
+      "status": "verified",
+      "lesson": "第十一课 确立人生目标",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 95,
+          "textbook_page": "87",
+          "locator": "正确认识个人与社会的关系"
+        }
+      ],
+      "title": "树立人生目标的必要前提",
+      "path": "七年级上册/11_第十一课_确立人生目标.md",
+      "anchor": "7A-L11-K06",
+      "content": "正确认识个人与社会的关系，是树立人生目标的必要前提。社会是由个人组成的，个人的发展离不开社会。只有在个人与社会的统一中明确人生目标，才能沿着正确的方向走好人生道路。\n\n来源：教材第 87 页（PDF 第 95 页）。"
+    },
+    {
+      "id": "7A-L11-K07",
+      "section": "树立正确的人生目标",
+      "kind": "做法",
+      "clues": [
+        "兴趣爱好",
+        "性格特征",
+        "知识能力",
+        "家庭环境",
+        "切实可行"
+      ],
+      "question_patterns": [
+        "怎样从自身实际出发树立人生目标",
+        "树立人生目标应考虑哪些因素"
+      ],
+      "status": "verified",
+      "lesson": "第十一课 确立人生目标",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 95,
+          "textbook_page": "87",
+          "locator": "以客观务实的态度树立切实可行的人生目标"
+        }
+      ],
+      "title": "从自身实际出发树立人生目标",
+      "path": "七年级上册/11_第十一课_确立人生目标.md",
+      "anchor": "7A-L11-K07",
+      "content": "应当从自身实际出发。个人的兴趣爱好、性格特征、知识能力、家庭环境等，都是树立人生目标的影响因素。要综合评估、全面考虑，以客观务实的态度树立切实可行的人生目标。\n\n来源：教材第 87 页（PDF 第 95 页）。"
+    },
+    {
+      "id": "7A-L11-K08",
+      "section": "树立正确的人生目标",
+      "kind": "做法",
+      "clues": [
+        "国家需要",
+        "民族利益",
+        "人民利益",
+        "科学救国",
+        "中华民族伟大复兴"
+      ],
+      "question_patterns": [
+        "怎样树立正确的人生目标",
+        "程开甲的故事有什么启示"
+      ],
+      "status": "verified",
+      "lesson": "第十一课 确立人生目标",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 96,
+          "textbook_page": "88",
+          "locator": "应当与国家、民族和人民的利益相结合"
+        }
+      ],
+      "title": "人生目标与国家民族人民利益相结合",
+      "path": "七年级上册/11_第十一课_确立人生目标.md",
+      "anchor": "7A-L11-K08",
+      "content": "树立人生目标，应当与国家、民族和人民的利益相结合。要把个人的发展牢牢植根于国家、民族和人民的需要，植根于中华民族伟大复兴的事业。\n\n来源：教材第 88 页（PDF 第 96 页）。"
+    },
+    {
+      "id": "7A-L11-K09",
+      "section": "树立正确的人生目标",
+      "kind": "做法",
+      "clues": [
+        "人类福祉",
+        "志存高远",
+        "胸怀天下",
+        "人类发展"
+      ],
+      "question_patterns": [
+        "怎样树立正确的人生目标",
+        "如何理解人生目标与人类福祉的关系"
+      ],
+      "status": "verified",
+      "lesson": "第十一课 确立人生目标",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 97,
+          "textbook_page": "89",
+          "locator": "应当与人类的福祉相统一"
+        }
+      ],
+      "title": "人生目标与人类福祉相统一",
+      "path": "七年级上册/11_第十一课_确立人生目标.md",
+      "anchor": "7A-L11-K09",
+      "content": "树立人生目标，应当与人类的福祉相统一。要志存高远、胸怀天下，将个人的追求与进步同人类的发展进步紧密联系在一起，使人生焕发生机和活力。\n\n来源：教材第 89 页（PDF 第 97 页）。"
+    },
+    {
+      "id": "7A-L12-K01",
+      "section": "拥有积极的人生态度",
+      "kind": "概念",
+      "clues": [
+        "人生态度",
+        "心理和行为倾向"
+      ],
+      "question_patterns": [
+        "什么是人生态度"
+      ],
+      "status": "verified",
+      "lesson": "第十二课 端正人生态度",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 98,
+          "textbook_page": "90",
+          "locator": "人生态度是人在生活实践中形成的"
+        }
+      ],
+      "title": "人生态度的含义",
+      "path": "七年级上册/12_第十二课_端正人生态度.md",
+      "anchor": "7A-L12-K01",
+      "content": "人生态度是人在生活实践中形成的看待生活、对待人生的心理和行为倾向。\n\n来源：教材第 90 页（PDF 第 98 页）。"
+    },
+    {
+      "id": "7A-L12-K02",
+      "section": "拥有积极的人生态度",
+      "kind": "意义",
+      "clues": [
+        "热爱生活",
+        "未来充满信心",
+        "昂扬奋发",
+        "积极态度"
+      ],
+      "question_patterns": [
+        "为什么要拥有积极的人生态度"
+      ],
+      "status": "verified",
+      "lesson": "第十二课 端正人生态度",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 98,
+          "textbook_page": "90",
+          "locator": "从而热爱生活，对未来充满信心"
+        },
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 99,
+          "textbook_page": "91",
+          "locator": "涵养昂扬奋发的精神气质"
+        }
+      ],
+      "title": "积极人生态度的作用与要求",
+      "path": "七年级上册/12_第十二课_端正人生态度.md",
+      "anchor": "7A-L12-K02",
+      "content": "积极的人生态度会令人看到事物好的一面，从而热爱生活，对未来充满信心。应当努力涵养昂扬奋发的精神气质，拥有积极的人生态度。\n\n来源：教材第 90 页（PDF 第 98 页）；教材第 91 页（PDF 第 99 页）。"
+    },
+    {
+      "id": "7A-L12-K03",
+      "section": "拥有积极的人生态度",
+      "kind": "认识",
+      "clues": [
+        "心灰意懒",
+        "消极懈怠",
+        "沮丧",
+        "不参加"
+      ],
+      "question_patterns": [
+        "消极的人生态度有什么影响"
+      ],
+      "status": "verified",
+      "lesson": "第十二课 端正人生态度",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 98,
+          "textbook_page": "90",
+          "locator": "消极的人生"
+        },
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 99,
+          "textbook_page": "91",
+          "locator": "心灰意懒、消极懈怠"
+        }
+      ],
+      "title": "消极人生态度的影响",
+      "path": "七年级上册/12_第十二课_端正人生态度.md",
+      "anchor": "7A-L12-K03",
+      "content": "消极的人生态度往往使人看到事物坏的一面，从而心灰意懒、消极懈怠。\n\n来源：教材第 90 页（PDF 第 98 页）；教材第 91 页（PDF 第 99 页）。"
+    },
+    {
+      "id": "7A-L12-K04",
+      "section": "拥有积极的人生态度",
+      "kind": "做法",
+      "clues": [
+        "乐观向上",
+        "自信从容",
+        "调整心态",
+        "不畏惧",
+        "不退缩"
+      ],
+      "question_patterns": [
+        "怎样以积极的态度面对困难和挫折"
+      ],
+      "status": "verified",
+      "lesson": "第十二课 端正人生态度",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 99,
+          "textbook_page": "91",
+          "locator": "积极的人生态度体现为乐观向上"
+        }
+      ],
+      "title": "积极人生态度体现为乐观向上",
+      "path": "七年级上册/12_第十二课_端正人生态度.md",
+      "anchor": "7A-L12-K04",
+      "content": "要乐观豁达、积极向上，让自己更加自信和从容，体味更多的生活乐趣；遇到困难和挫折时，及时调整心态，不畏惧、不退缩、勇敢面对。\n\n来源：教材第 91 页（PDF 第 99 页）。"
+    },
+    {
+      "id": "7A-L12-K05",
+      "section": "拥有积极的人生态度",
+      "kind": "做法",
+      "clues": [
+        "认真务实",
+        "严谨",
+        "责任心",
+        "踏实",
+        "精益求精",
+        "投机取巧"
+      ],
+      "question_patterns": [
+        "怎样做到认真务实"
+      ],
+      "status": "verified",
+      "lesson": "第十二课 端正人生态度",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 99,
+          "textbook_page": "91",
+          "locator": "积极的人生态度体现为认真务实"
+        }
+      ],
+      "title": "积极人生态度体现为认真务实",
+      "path": "七年级上册/12_第十二课_端正人生态度.md",
+      "anchor": "7A-L12-K05",
+      "content": "要有严谨的态度、强烈的责任心和踏实的作风，做任何事情都精益求精，不走投机取巧、不劳而获的“捷径”。\n\n来源：教材第 91 页（PDF 第 99 页）。"
+    },
+    {
+      "id": "7A-L12-K06",
+      "section": "拥有积极的人生态度",
+      "kind": "做法",
+      "clues": [
+        "勤奋进取",
+        "全力以赴",
+        "坚持不懈",
+        "勤学上进",
+        "追求卓越"
+      ],
+      "question_patterns": [
+        "怎样做到勤奋进取"
+      ],
+      "status": "verified",
+      "lesson": "第十二课 端正人生态度",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 100,
+          "textbook_page": "92",
+          "locator": "勤奋进取是一种全力以赴"
+        }
+      ],
+      "title": "积极人生态度体现为勤奋进取",
+      "path": "七年级上册/12_第十二课_端正人生态度.md",
+      "anchor": "7A-L12-K06",
+      "content": "勤奋进取是一种全力以赴、坚持不懈、努力前行的勇毅品格。要做到勤学上进、追求卓越，不满足现状、不贪图安逸。\n\n来源：教材第 92 页（PDF 第 100 页）。"
+    },
+    {
+      "id": "7A-L12-K07",
+      "section": "正确对待顺境和逆境",
+      "kind": "认识",
+      "clues": [
+        "顺境",
+        "逆境",
+        "双重作用",
+        "更有利于成长"
+      ],
+      "question_patterns": [
+        "顺境或逆境一定更有利于成长吗"
+      ],
+      "status": "verified",
+      "lesson": "第十二课 端正人生态度",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 101,
+          "textbook_page": "93",
+          "locator": "对人生的作用都是双重的"
+        }
+      ],
+      "title": "顺境逆境对人生的双重作用",
+      "path": "七年级上册/12_第十二课_端正人生态度.md",
+      "anchor": "7A-L12-K07",
+      "content": "顺境和逆境是人生历程中两种不同的境遇。无论顺境还是逆境，对人生的作用都是双重的，关键是以何种态度对待人生的境遇。\n\n来源：教材第 93 页（PDF 第 101 页）。"
+    },
+    {
+      "id": "7A-L12-K08",
+      "section": "正确对待顺境和逆境",
+      "kind": "做法",
+      "clues": [
+        "顺境不骄",
+        "骄傲自满",
+        "忧患意识",
+        "谦虚谨慎",
+        "抓住机遇"
+      ],
+      "question_patterns": [
+        "怎样正确对待顺境"
+      ],
+      "status": "verified",
+      "lesson": "第十二课 端正人生态度",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 101,
+          "textbook_page": "93",
+          "locator": "顺境不骄"
+        }
+      ],
+      "title": "身处顺境要顺境不骄",
+      "path": "七年级上册/12_第十二课_端正人生态度.md",
+      "anchor": "7A-L12-K08",
+      "content": "顺境中的有利因素使我们更容易接近和实现目标。身处顺境，要珍惜美好时光，抓住机遇，顺势而为；同时要有忧患意识，警惕优越条件滋生的骄傲、懈怠等不良心态，时刻保持谦虚谨慎。\n\n来源：教材第 93 页（PDF 第 101 页）。"
+    },
+    {
+      "id": "7A-L12-K09",
+      "section": "正确对待顺境和逆境",
+      "kind": "做法",
+      "clues": [
+        "逆境不馁",
+        "鼓足勇气",
+        "迎难而上",
+        "挫折和考验"
+      ],
+      "question_patterns": [
+        "怎样正确对待逆境"
+      ],
+      "status": "verified",
+      "lesson": "第十二课 端正人生态度",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 101,
+          "textbook_page": "93",
+          "locator": "逆境不馁"
+        },
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 102,
+          "textbook_page": "94",
+          "locator": "鼓足勇气，迎难而上"
+        }
+      ],
+      "title": "身处逆境要逆境不馁",
+      "path": "七年级上册/12_第十二课_端正人生态度.md",
+      "anchor": "7A-L12-K09",
+      "content": "生活中难免会遇到各种各样的困难。在逆境中前行，需要鼓足勇气、迎难而上。在青少年时期经历一些挫折和考验，有助于走好人生路。\n\n来源：教材第 93 页（PDF 第 101 页）；教材第 94 页（PDF 第 102 页）。"
+    },
+    {
+      "id": "7A-L12-K10",
+      "section": "正确对待顺境和逆境",
+      "kind": "关系",
+      "clues": [
+        "顺境逆境转化",
+        "一定条件",
+        "成败得失",
+        "不悲观",
+        "不言败",
+        "成长阶梯"
+      ],
+      "question_patterns": [
+        "顺境与逆境在什么条件下相互转化",
+        "怎样让境遇成为人生成长的阶梯"
+      ],
+      "status": "verified",
+      "lesson": "第十二课 端正人生态度",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 102,
+          "textbook_page": "94",
+          "locator": "顺境和逆境在一定条件下可以相互转化"
+        }
+      ],
+      "title": "顺境逆境相互转化的条件",
+      "path": "七年级上册/12_第十二课_端正人生态度.md",
+      "anchor": "7A-L12-K10",
+      "content": "顺境和逆境在一定条件下可以相互转化。自满自足、意志衰退，顺境就有可能转化为逆境；受磨难而奋进，不悲观、不言败，逆境就有可能转化为顺境。只要正确对待成败得失，处优而不养尊，受挫而不短志，顺境和逆境都可以成为人生成长的阶梯。\n\n来源：教材第 94 页（PDF 第 102 页）。"
+    },
+    {
+      "id": "7A-L13-K01",
+      "section": "在劳动中创造人生价值",
+      "kind": "概念",
+      "clues": [
+        "人生价值",
+        "积极意义"
+      ],
+      "question_patterns": [
+        "什么是人生价值"
+      ],
+      "status": "verified",
+      "lesson": "第十三课 实现人生价值",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 104,
+          "textbook_page": "96",
+          "locator": "人生价值是指人的生命和活动"
+        }
+      ],
+      "title": "人生价值的含义",
+      "path": "七年级上册/13_第十三课_实现人生价值.md",
+      "anchor": "7A-L13-K01",
+      "content": "人生价值是指人的生命和活动对自己、他人和社会所具有的积极意义。\n\n来源：教材第 96 页（PDF 第 104 页）。"
+    },
+    {
+      "id": "7A-L13-K02",
+      "section": "在劳动中创造人生价值",
+      "kind": "认识",
+      "clues": [
+        "劳动创造",
+        "物质财富",
+        "精神财富",
+        "幸福愉悦",
+        "实现人生价值"
+      ],
+      "question_patterns": [
+        "为什么要在劳动中创造人生价值"
+      ],
+      "status": "verified",
+      "lesson": "第十三课 实现人生价值",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 104,
+          "textbook_page": "96",
+          "locator": "人生价值是通过劳动创造的"
+        }
+      ],
+      "title": "人生价值通过劳动创造",
+      "path": "七年级上册/13_第十三课_实现人生价值.md",
+      "anchor": "7A-L13-K02",
+      "content": "人生价值是通过劳动创造的。人们通过劳动创造物质财富和精神财富，在劳动中实现各种各样的愿望，感受到幸福和愉悦，体会到人生的价值和美好。\n\n来源：教材第 96 页（PDF 第 104 页）。"
+    },
+    {
+      "id": "7A-L13-K03",
+      "section": "在劳动中创造人生价值",
+      "kind": "标准",
+      "clues": [
+        "衡量人生价值",
+        "贡献",
+        "学习成绩好",
+        "人生价值大小"
+      ],
+      "question_patterns": [
+        "怎样衡量人生价值",
+        "只要学习成绩好就一定能实现人生价值吗"
+      ],
+      "status": "verified",
+      "lesson": "第十三课 实现人生价值",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 105,
+          "textbook_page": "97",
+          "locator": "一个人对他人和社会的贡献是衡量其人生价值的尺度"
+        }
+      ],
+      "title": "衡量人生价值的尺度",
+      "path": "七年级上册/13_第十三课_实现人生价值.md",
+      "anchor": "7A-L13-K03",
+      "content": "一个人对他人和社会的贡献是衡量其人生价值的尺度。一个人通过劳动为他人和社会作出的贡献越大，他的人生价值就越大。\n\n来源：教材第 97 页（PDF 第 105 页）。"
+    },
+    {
+      "id": "7A-L13-K04",
+      "section": "在劳动中创造人生价值",
+      "kind": "认识",
+      "clues": [
+        "职业不同",
+        "岗位有别",
+        "社会进步",
+        "社会尊重",
+        "平凡岗位"
+      ],
+      "question_patterns": [
+        "普通劳动者能否实现人生价值",
+        "怎样评价不同职业的价值"
+      ],
+      "status": "verified",
+      "lesson": "第十三课 实现人生价值",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 105,
+          "textbook_page": "97",
+          "locator": "但只要为社会进步作出了贡献"
+        }
+      ],
+      "title": "不同职业岗位都可以实现人生价值",
+      "path": "七年级上册/13_第十三课_实现人生价值.md",
+      "anchor": "7A-L13-K04",
+      "content": "人们的职业不同、岗位有别，但只要为社会进步作出了贡献，就是为社会创造了价值，也就创造和实现了人生价值，应当得到社会的尊重和积极评价。\n\n来源：教材第 97 页（PDF 第 105 页）。"
+    },
+    {
+      "id": "7A-L13-K05",
+      "section": "在劳动中创造人生价值",
+      "kind": "意义",
+      "clues": [
+        "美好生活",
+        "国家富强",
+        "民族振兴",
+        "人民幸福",
+        "辛勤劳动",
+        "诚实劳动",
+        "创造性劳动"
+      ],
+      "question_patterns": [
+        "劳动对社会发展有什么作用"
+      ],
+      "status": "verified",
+      "lesson": "第十三课 实现人生价值",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 105,
+          "textbook_page": "97",
+          "locator": "人世间的一切美好生活都是通过劳动来创造的"
+        }
+      ],
+      "title": "劳动创造美好生活与国家发展成就",
+      "path": "七年级上册/13_第十三课_实现人生价值.md",
+      "anchor": "7A-L13-K05",
+      "content": "人世间的一切美好生活都是通过劳动来创造的。取得的每一项成就都是广大人民用辛勤劳动、诚实劳动、创造性劳动换来的；国家富强、民族振兴、人民幸福的美好愿景都要靠劳动来实现。\n\n来源：教材第 97 页（PDF 第 105 页）。"
+    },
+    {
+      "id": "7A-L13-K06",
+      "section": "在劳动中创造人生价值·相关链接",
+      "kind": "意义",
+      "clues": [
+        "劳动作用",
+        "改变自然界",
+        "提升能力"
+      ],
+      "question_patterns": [
+        "劳动对人的成长有什么作用"
+      ],
+      "status": "verified",
+      "lesson": "第十三课 实现人生价值",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 105,
+          "textbook_page": "97",
+          "locator": "塑造了人的本质，提升了人的能力"
+        }
+      ],
+      "title": "劳动改变世界并提升人的能力",
+      "path": "七年级上册/13_第十三课_实现人生价值.md",
+      "anchor": "7A-L13-K06",
+      "content": "教材相关链接指出，通过自己的劳动，人们不仅改变了自然界，也改变了人的社会关系，塑造了人的本质，提升了人的能力。\n\n来源：教材第 97 页（PDF 第 105 页）。"
+    },
+    {
+      "id": "7A-L13-K07",
+      "section": "在奉献中成就精彩人生",
+      "kind": "做法",
+      "clues": [
+        "小我",
+        "大我",
+        "融入时代",
+        "祖国和人民"
+      ],
+      "question_patterns": [
+        "怎样更好地实现人生价值"
+      ],
+      "status": "verified",
+      "lesson": "第十三课 实现人生价值",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 106,
+          "textbook_page": "98",
+          "locator": "把自己的小我融入时代"
+        }
+      ],
+      "title": "将小我融入大我实现人生价值",
+      "path": "七年级上册/13_第十三课_实现人生价值.md",
+      "anchor": "7A-L13-K07",
+      "content": "每个人都有自己的人生追求，也会从事各种不同的工作。只有把自己的小我融入时代、融入祖国和人民的大我之中，才能更好地实现人生价值。\n\n来源：教材第 98 页（PDF 第 106 页）。"
+    },
+    {
+      "id": "7A-L13-K08",
+      "section": "在奉献中成就精彩人生",
+      "kind": "做法",
+      "clues": [
+        "立足岗位",
+        "没有高低贵贱",
+        "勤勤恳恳",
+        "兢兢业业",
+        "奉献社会"
+      ],
+      "question_patterns": [
+        "怎样立足岗位实现人生价值"
+      ],
+      "status": "verified",
+      "lesson": "第十三课 实现人生价值",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 106,
+          "textbook_page": "98",
+          "locator": "立足岗位作奉献"
+        }
+      ],
+      "title": "立足岗位作奉献",
+      "path": "七年级上册/13_第十三课_实现人生价值.md",
+      "anchor": "7A-L13-K08",
+      "content": "任何一项工作都是社会存在和发展的需要，没有高低贵贱之分。要在自己的岗位上勤勤恳恳、兢兢业业，在奉献社会中创造自身价值。平凡的工作也有意义。\n\n来源：教材第 98 页（PDF 第 106 页）。"
+    },
+    {
+      "id": "7A-L13-K09",
+      "section": "在奉献中成就精彩人生",
+      "kind": "做法",
+      "clues": [
+        "踏实奋进",
+        "青春奋斗",
+        "干一行",
+        "爱一行",
+        "精一行",
+        "实践"
+      ],
+      "question_patterns": [
+        "怎样在踏实奋进中实现人生价值"
+      ],
+      "status": "verified",
+      "lesson": "第十三课 实现人生价值",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 107,
+          "textbook_page": "99",
+          "locator": "只有沉下心来，干一行、爱一行、精一行"
+        }
+      ],
+      "title": "在踏实奋进中绽放人生光彩",
+      "path": "七年级上册/13_第十三课_实现人生价值.md",
+      "anchor": "7A-L13-K09",
+      "content": "青春是用来奋斗的。只有沉下心来，干一行、爱一行、精一行，才能在实践中做出一番事业，书写自己的人生华章。\n\n来源：教材第 99 页（PDF 第 107 页）。"
+    },
+    {
+      "id": "7A-L13-K10",
+      "section": "在奉献中成就精彩人生",
+      "kind": "做法",
+      "clues": [
+        "奉献",
+        "个人命运",
+        "集体",
+        "伟大",
+        "精彩人生"
+      ],
+      "question_patterns": [
+        "怎样在奉献中成就精彩人生"
+      ],
+      "status": "verified",
+      "lesson": "第十三课 实现人生价值",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 107,
+          "textbook_page": "99",
+          "locator": "在奉献中走向伟大，成就精彩人生"
+        }
+      ],
+      "title": "在奉献中走向伟大",
+      "path": "七年级上册/13_第十三课_实现人生价值.md",
+      "anchor": "7A-L13-K10",
+      "content": "将个人的命运和他人、集体、民族、国家乃至人类的命运联系在一起，并为之奉献，人生就会闪耀出伟大的光辉，成就精彩人生。\n\n来源：教材第 99 页（PDF 第 107 页）。"
+    },
+    {
+      "id": "7A-L13-K11",
+      "section": "启思导行",
+      "kind": "做法",
+      "clues": [
+        "劳动精神",
+        "崇尚劳动",
+        "尊重劳动",
+        "劳动最光荣",
+        "青少年"
+      ],
+      "question_patterns": [
+        "青少年怎样弘扬劳动精神"
+      ],
+      "status": "verified",
+      "lesson": "第十三课 实现人生价值",
+      "unit": "第四单元 追求美好人生",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 108,
+          "textbook_page": "100",
+          "locator": "我们要弘扬劳动精神"
+        }
+      ],
+      "title": "青少年要弘扬劳动精神",
+      "path": "七年级上册/13_第十三课_实现人生价值.md",
+      "anchor": "7A-L13-K11",
+      "content": "劳动精神是鼓舞全国各族人民风雨无阻、勇敢前进的强大精神动力。青少年要弘扬劳动精神，崇尚劳动、尊重劳动，懂得劳动最光荣、劳动最崇高、劳动最伟大、劳动最美丽的道理，长大后能够辛勤劳动、诚实劳动、创造性劳动。\n\n来源：教材第 100 页（PDF 第 108 页）。"
+    },
+    {
+      "id": "7A-L04-K01",
+      "section": "家的意味",
+      "kind": "概念",
+      "clues": [
+        "婚姻关系",
+        "血缘关系",
+        "收养关系",
+        "家庭含义"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第四课 幸福和睦的家庭",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 35,
+          "textbook_page": "27",
+          "locator": "家庭是由婚姻关系"
+        }
+      ],
+      "title": "家庭的含义",
+      "path": "七年级上册/04_第四课_幸福和睦的家庭.md",
+      "anchor": "7A-L04-K01",
+      "content": "家庭是由婚姻关系、血缘关系或收养关系结合成的亲属生活组织。\n\n来源：教材第 27 页（PDF 第 35 页）。"
+    },
+    {
+      "id": "7A-L04-K02",
+      "section": "家的意味",
+      "kind": "意义",
+      "clues": [
+        "家庭哺育",
+        "心灵港湾",
+        "亲情",
+        "家不只房子"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第四课 幸福和睦的家庭",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 35,
+          "textbook_page": "27",
+          "locator": "家是生命的居所，是心灵的港湾"
+        }
+      ],
+      "title": "家是生命的居所和心灵的港湾",
+      "path": "七年级上册/04_第四课_幸福和睦的家庭.md",
+      "anchor": "7A-L04-K02",
+      "content": "我们的生命是父母给予的，成长离不开家庭的哺育和支持。家里有亲人、有亲情，使我们的心灵有所依托。\n\n来源：教材第 27 页（PDF 第 35 页）。"
+    },
+    {
+      "id": "7A-L04-K03",
+      "section": "家的意味",
+      "kind": "意义",
+      "clues": [
+        "言传身教",
+        "第一所学校",
+        "第一任老师",
+        "家庭教育"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第四课 幸福和睦的家庭",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 36,
+          "textbook_page": "28",
+          "locator": "父母是我们的第一任老师"
+        }
+      ],
+      "title": "家庭的教育作用",
+      "path": "七年级上册/04_第四课_幸福和睦的家庭.md",
+      "anchor": "7A-L04-K03",
+      "content": "家是第一所学校和修身之所，父母是第一任老师。我们在家人的言传身教中学习为人处世，扣好人生的第一粒扣子。\n\n来源：教材第 28 页（PDF 第 36 页）。"
+    },
+    {
+      "id": "7A-L04-K04",
+      "section": "家的意味",
+      "kind": "意义",
+      "clues": [
+        "优良家风",
+        "向上向善",
+        "潜移默化",
+        "传承"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第四课 幸福和睦的家庭",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 36,
+          "textbook_page": "28",
+          "locator": "优良家风引导我们向上向善"
+        }
+      ],
+      "title": "家风的传承和作用",
+      "path": "七年级上册/04_第四课_幸福和睦的家庭.md",
+      "anchor": "7A-L04-K04",
+      "content": "家是代代传承、血脉相连的生活共同体。家风潜移默化地影响家庭成员的价值观念、性格特征、道德修养和行为习惯。优良家风引导我们向上向善，促进家庭幸福和谐。\n\n来源：教材第 28 页（PDF 第 36 页）。"
+    },
+    {
+      "id": "7A-L04-K05",
+      "section": "家的意味",
+      "kind": "意义",
+      "clues": [
+        "社会基本细胞",
+        "家庭文明",
+        "家庭和睦"
+      ],
+      "question_patterns": [
+        "是什么",
+        "为什么"
+      ],
+      "status": "verified",
+      "lesson": "第四课 幸福和睦的家庭",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 37,
+          "textbook_page": "29",
+          "locator": "家庭是社会的基本细胞"
+        }
+      ],
+      "title": "家庭与社会的关系",
+      "path": "七年级上册/04_第四课_幸福和睦的家庭.md",
+      "anchor": "7A-L04-K05",
+      "content": "家庭是社会的基本细胞。家庭和睦则社会安定，家庭幸福则社会祥和，家庭文明则社会文明。\n\n来源：教材第 29 页（PDF 第 37 页）。"
+    },
+    {
+      "id": "7A-L04-K06",
+      "section": "让家更美好",
+      "kind": "做法",
+      "clues": [
+        "感受不到亲情",
+        "生活点滴",
+        "亲情表现",
+        "体味爱"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第四课 幸福和睦的家庭",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 38,
+          "textbook_page": "30",
+          "locator": "家人间的爱蕴含在生活的点滴之中"
+        }
+      ],
+      "title": "用心体味亲情之爱",
+      "path": "七年级上册/04_第四课_幸福和睦的家庭.md",
+      "anchor": "7A-L04-K06",
+      "content": "每个家庭的亲情表现不同。有时我们因其平常而忽略它，也可能感受不到自己渴望的亲情。要用心体悟生活点滴中的家人之爱。\n\n来源：教材第 30 页（PDF 第 38 页）。"
+    },
+    {
+      "id": "7A-L04-K07",
+      "section": "让家更美好",
+      "kind": "做法",
+      "clues": [
+        "家庭矛盾",
+        "亲子冲突",
+        "换位思考",
+        "沟通交流",
+        "回报爱"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第四课 幸福和睦的家庭",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 39,
+          "textbook_page": "31",
+          "locator": "建设美好的家庭，需要相互关爱、彼此尊重"
+        }
+      ],
+      "title": "相互关爱尊重并化解家庭矛盾",
+      "path": "七年级上册/04_第四课_幸福和睦的家庭.md",
+      "anchor": "7A-L04-K07",
+      "content": "①接受关爱，也学会回报爱：孝顺敬重父母长辈，相携相助兄弟姐妹。②以彼此尊重为前提沟通交流。③家庭矛盾有时难免，要换位思考、有事多商量，主动化解矛盾，增进情感。\n\n来源：教材第 31 页（PDF 第 39 页）。"
+    },
+    {
+      "id": "7A-L04-K08",
+      "section": "让家更美好",
+      "kind": "原因",
+      "clues": [
+        "孝亲敬老",
+        "传统美德",
+        "法定义务",
+        "孝敬父母"
+      ],
+      "question_patterns": [
+        "为什么",
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第四课 幸福和睦的家庭",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 39,
+          "textbook_page": "31",
+          "locator": "孝亲敬老是中华民族的传统美德"
+        },
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 39,
+          "textbook_page": "31",
+          "locator": "孝亲敬老也是公民的法定义务"
+        }
+      ],
+      "title": "孝亲敬老的要求",
+      "path": "七年级上册/04_第四课_幸福和睦的家庭.md",
+      "anchor": "7A-L04-K08",
+      "content": "孝亲敬老既是中华民族的传统美德，也是公民的法定义务。应孝顺敬重父母长辈。教材相关链接列举成年子女赡养扶助父母的义务。\n\n来源：教材第 31 页（PDF 第 39 页）；教材第 31 页（PDF 第 39 页）。"
+    },
+    {
+      "id": "7A-L04-K09",
+      "section": "让家更美好",
+      "kind": "做法",
+      "clues": [
+        "传统家庭美德",
+        "尊老爱幼",
+        "勤俭持家",
+        "知书达礼",
+        "家庭文明"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第四课 幸福和睦的家庭",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 40,
+          "textbook_page": "32",
+          "locator": "家庭是道德养成的起点"
+        }
+      ],
+      "title": "传承传统家庭美德",
+      "path": "七年级上册/04_第四课_幸福和睦的家庭.md",
+      "anchor": "7A-L04-K09",
+      "content": "家庭是道德养成的起点。培育和弘扬社会主义核心价值观，发扬尊老爱幼、勤俭持家、知书达礼、遵纪守法等传统家庭美德，推动爱国爱家、相亲相爱、向上向善、共建共享的家庭文明新风尚。\n\n来源：教材第 32 页（PDF 第 40 页）。"
+    },
+    {
+      "id": "7A-L04-K10",
+      "section": "让家更美好",
+      "kind": "做法",
+      "clues": [
+        "分担家务",
+        "家庭责任",
+        "自我管理",
+        "共同分担",
+        "家庭建设"
+      ],
+      "question_patterns": [
+        "怎样做",
+        "辨析"
+      ],
+      "status": "verified",
+      "lesson": "第四课 幸福和睦的家庭",
+      "unit": "第二单元 成长的时空",
+      "book": "七年级上册",
+      "grade": "七年级",
+      "volume": "上册",
+      "source_refs": [
+        {
+          "source_id": "sha256-0972666878eab8be",
+          "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+          "pdf_page": 40,
+          "textbook_page": "32",
+          "locator": "建设美好的家庭，是家庭成员的共同责任"
+        }
+      ],
+      "title": "承担家庭建设的共同责任",
+      "path": "七年级上册/04_第四课_幸福和睦的家庭.md",
+      "anchor": "7A-L04-K10",
+      "content": "家庭成员共同分担、相互协作，营造良好的家庭氛围。我们应提高自我管理能力，增强家庭责任意识，为家庭建设作出贡献。\n\n来源：教材第 32 页（PDF 第 40 页）。"
+    }
+  ]
+}
