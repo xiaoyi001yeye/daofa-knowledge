@@ -1,0 +1,3 @@
+interface:
+  display_name: "道法知识库问答"
+  short_description: "基于本地教材知识库分析并回答道德与法治题目"
