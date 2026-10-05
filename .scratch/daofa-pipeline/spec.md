@@ -1,6 +1,6 @@
 # pdfs、daofa-build 与 daofa-qa 教材知识流程
 
-**Status:** ready-for-agent
+**Status:** resolved
 
 ## Problem Statement
 
@@ -75,4 +75,4 @@
 ## Further Notes
 
 - 配置、核对责任和验收入口均已由用户确认。任务粒度和依赖将在发布独立任务前由用户审阅。
-- 当前完成的是流程配置和规格设计。已有 OCR 可行性试验不代表三个技能或第二课知识库已经实现。
+- 三个技能和七年级上册全册内容已实现，六项独立任务已完成。实际内容与流程验收见 docs/validation.md，题目样例见 questions/pipeline-acceptance.md。
