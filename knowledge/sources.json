@@ -93,7 +93,7 @@
           "textbook_page": "5",
           "review_status": "reviewed",
           "reviewed_by": "Codex",
-          "reviewed_text_sha256": "e08a8a8bdf26f8fc8d773d7aed7202b040f4a2d9316d745900676e766aea9288",
+          "reviewed_text_sha256": "4d941a98d3d064583ecf3672ac4b0ae877b395ff23ad6a8b2183b06c5bf48d5f",
           "reviewed_image_sha256": "8e05ba4655c5b0c5f044f36f838b5927b8cfcd4bcd1998cda633576ef89b1072"
         },
         "14": {
@@ -109,7 +109,7 @@
           "textbook_page": "7",
           "review_status": "reviewed",
           "reviewed_by": "Codex",
-          "reviewed_text_sha256": "d9d0ec633f3b6f9ef8add9424b92c4dcf83df069b7f2cf48c58ad583277dd202",
+          "reviewed_text_sha256": "283792d6d892e17838a59bc49fa1dbd855c0d577a3af27d40ab20fa40b4f8d8b",
           "reviewed_image_sha256": "5062e9356b6ab08b62abef0d0df1a6ab3399467bb098c95f52986fc11cbef616"
         },
         "16": {
@@ -165,7 +165,7 @@
           "textbook_page": "21",
           "review_status": "reviewed",
           "reviewed_by": "Codex",
-          "reviewed_text_sha256": "80c6d66a3f5243a13231e5d4b6c66678f8fa470a0f78a6d19ce078738ea9e562",
+          "reviewed_text_sha256": "30e7c6013183bb89c393f2e68aa8d0697cf0c56bb4ccfa6a186c5dd6ad739d48",
           "reviewed_image_sha256": "8808217da516a4bb48afa8c63bfb815501739dd6cb6ff6ed07cf817445a068da"
         },
         "30": {
@@ -580,8 +580,8 @@
           "pdf_page": 35,
           "textbook_page": "27",
           "review_status": "reviewed",
-          "reviewed_by": "Codex-unit02-independent-trial",
-          "reviewed_text_sha256": "6d73157eac62414c8b63670e4c096e8b963ee9464a2b015aaaf01a10e5c6b8b9",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "739381a91f7ba5479b492e40ecd93ba9add20cac7269a30557afc87965e8022c",
           "reviewed_image_sha256": "4ce8a89ed0ddf947430ba23eafed29ff98bf08d65f45c9d13a82ff1f49ab7681"
         },
         "36": {
@@ -644,8 +644,8 @@
           "pdf_page": 43,
           "textbook_page": "35",
           "review_status": "reviewed",
-          "reviewed_by": "Codex-unit02-independent-trial",
-          "reviewed_text_sha256": "bc0ce74acd7a0848d0a4c4ee0d0521deb110f790597b52a6134956e5c901b3ec",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "e8245ac53390944b1a4ec073daf1d9200253842dd308ff1af199be8260d5fa0c",
           "reviewed_image_sha256": "1aca46c63d68833095366e805b1d7563293e673b60a87908e0f6e552cb61f8e1"
         },
         "44": {
@@ -831,6 +831,22 @@
           "reviewed_by": "Codex-unit02-independent-trial",
           "reviewed_text_sha256": "aca0b7dd01ed41fbf3c58a4953feccda4ede235149052e678ae45f937ca62c36",
           "reviewed_image_sha256": "adf2cf9180373d88a8f9f5d97bb2d235cbddf237ba1d48a95387fb2931f8ce58"
+        },
+        "31": {
+          "pdf_page": 31,
+          "textbook_page": "23",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "a9c3b24fe127b28e0a70d7a665aff16ea6ef084839e446ee4096b3397442ea0f",
+          "reviewed_image_sha256": "7bf2f8a0dc89dd731b4dc012209a6027c93a2c9c4e79abb0387f3181813837f4"
+        },
+        "32": {
+          "pdf_page": 32,
+          "textbook_page": "24",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "0c529230071589ad0758074f4e42abedea535877b891b9d776618aff17e82ab8",
+          "reviewed_image_sha256": "6fcf3112702ffe2ac462ce32072378812c482fbbadc5ab9ea26d12917abfedd5"
         }
       }
     }
