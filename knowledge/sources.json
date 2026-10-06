@@ -1,0 +1,854 @@
+{
+  "schema_version": 1,
+  "sources": {
+    "sha256-0972666878eab8be": {
+      "source_id": "sha256-0972666878eab8be",
+      "sha256": "0972666878eab8beb929d62840122d016e5536bec96df82d6075a25d80e1aa36",
+      "title": "道德与法治七年级上册",
+      "edition": null,
+      "page_count": 114,
+      "pages": {
+        "17": {
+          "pdf_page": 17,
+          "textbook_page": "9",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "185dc96f70e05c6676149421bda8d49d43ab138d7108189d5202e9fe28ebc148",
+          "reviewed_image_sha256": "b81c8ad6fc091e0f870d9f8a6fd3351841e2008dcb8e128e2b89d93d1c4dc6ab"
+        },
+        "18": {
+          "pdf_page": 18,
+          "textbook_page": "10",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "a5a50b590db682e70282676f46672447183d495ee78aad96f1f243870975c2dc",
+          "reviewed_image_sha256": "fcac11dee1dfde472b97d378071b4bdff8ece2a32cffd6a99ee2c55b60880f07"
+        },
+        "19": {
+          "pdf_page": 19,
+          "textbook_page": "11",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "8613d732132a14af32c592c4d19697cc49e3e5358a263e202605149d9fa74743",
+          "reviewed_image_sha256": "ed2a5970311fa28e2150f86810b05b60783cc02015b70ff8133a46bf3189faa4"
+        },
+        "20": {
+          "pdf_page": 20,
+          "textbook_page": "12",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "fffa4ffb4979cb17187803da4382578bb73a8cc09c5b91cfefa15c2060c0e657",
+          "reviewed_image_sha256": "8de225b5169cef3dc43053cf0b8a19e1167312a1740a4b17e53130c3f49500ac"
+        },
+        "21": {
+          "pdf_page": 21,
+          "textbook_page": "13",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "e721b7c37f3d98056d26c99224e2b1315918b0848d783111eca62c348f5af8d8",
+          "reviewed_image_sha256": "5a138078ac7fefc15f77f4d15346d57d60c92864d5d67bf66b199741e624bcd1"
+        },
+        "22": {
+          "pdf_page": 22,
+          "textbook_page": "14",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "74cb952c3dd7a4420f8d1e78ee9270b23122fe0ced7c8aae8306250422f3b11d",
+          "reviewed_image_sha256": "fadadf351d46d91b7c746d4b308720f0d486f2a3029bf574160b92477c632f81"
+        },
+        "23": {
+          "pdf_page": 23,
+          "textbook_page": "15",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "ccf21a21fe96ac72d1667dd59b771910cf0c660e4c68749f00c7e0d83c5ed550",
+          "reviewed_image_sha256": "fe38330c18b1b662b3a19374cf859f8c8cfea11538cda34fce22d3cc809e14bc"
+        },
+        "10": {
+          "pdf_page": 10,
+          "textbook_page": "2",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "f9d44f86341683347caa07121c8f56937a80c796fb1a2efa4f7e911f74a49e92",
+          "reviewed_image_sha256": "a210026652e18ce8ddb0d048f89ced661232ba58f7a2e747d3a812044cccfaef"
+        },
+        "11": {
+          "pdf_page": 11,
+          "textbook_page": "3",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "df84a1056a7d748ed413841baaadf49078c0a4e49f9cc0b6399aea4926df8ee0",
+          "reviewed_image_sha256": "2b1cbd39536c307943d577d6ac6583e3ed13dbdb90aa23f04aa369b31ba38368"
+        },
+        "12": {
+          "pdf_page": 12,
+          "textbook_page": "4",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "e2d35c77ee387645bae9cfc8a30b08ff57a6e3da770b5d0ff56bf4f18279497e",
+          "reviewed_image_sha256": "772e148bdce8dfe6423c0241dafa5610d795e6b2b954d438d3faaa3925bcc163"
+        },
+        "13": {
+          "pdf_page": 13,
+          "textbook_page": "5",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "4d941a98d3d064583ecf3672ac4b0ae877b395ff23ad6a8b2183b06c5bf48d5f",
+          "reviewed_image_sha256": "8e05ba4655c5b0c5f044f36f838b5927b8cfcd4bcd1998cda633576ef89b1072"
+        },
+        "14": {
+          "pdf_page": 14,
+          "textbook_page": "6",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "39a5a52168ad5f13e74a6773b8fa774e6e66052b3e9d42bd4a931901b61a0388",
+          "reviewed_image_sha256": "49fa1d16802c998f6d94579f0cdd34c1408afb86541cf3a4bb1149fb8923055b"
+        },
+        "15": {
+          "pdf_page": 15,
+          "textbook_page": "7",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "283792d6d892e17838a59bc49fa1dbd855c0d577a3af27d40ab20fa40b4f8d8b",
+          "reviewed_image_sha256": "5062e9356b6ab08b62abef0d0df1a6ab3399467bb098c95f52986fc11cbef616"
+        },
+        "16": {
+          "pdf_page": 16,
+          "textbook_page": "8",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "36bb1b7fd9ee5852a32a7181f901427c7fd402178bb7cd32fe85bed328d88133",
+          "reviewed_image_sha256": "9184bdf75c478f465fbfa042cd8d5af31a48cf2b32537bea6b22aefe0b50b06d"
+        },
+        "24": {
+          "pdf_page": 24,
+          "textbook_page": "16",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "e4590a65c5474dfa0ebadf5265c802d9450dcbaa306d909b87f56e32136a4239",
+          "reviewed_image_sha256": "237b3408acc7527685b48a78b50f5e606ec8652c1ff89c54b055950f79dae4c3"
+        },
+        "25": {
+          "pdf_page": 25,
+          "textbook_page": "17",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "6e5a4cc87634396687b3a10ce9b2351cf152f9899525fdcd5d17c48ae00e0122",
+          "reviewed_image_sha256": "1c2a6b7301f9aba5efe4c258086500d29d6db412f308df347b652c1b5a7d8ae3"
+        },
+        "26": {
+          "pdf_page": 26,
+          "textbook_page": "18",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "6aab649fed7052f563c43f56b92a0d3716f3250e4897d47d8f5676307d4a73cd",
+          "reviewed_image_sha256": "50e7220c50b0292eb8827137831487f795849127eba2ab189520030a5740e233"
+        },
+        "27": {
+          "pdf_page": 27,
+          "textbook_page": "19",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "0e5b4f6697dfd233033e7ca616afefaf90df33ea8da6353481ccd7bfe5d3ea7b",
+          "reviewed_image_sha256": "0bc712712969a2b20a445c5cab70cbe74202f1370836066dc813e2a5224d45f4"
+        },
+        "28": {
+          "pdf_page": 28,
+          "textbook_page": "20",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "c821efd12e88940e556fb78fc0ac63b13ae13b48d43c422b65df68c7e40b8359",
+          "reviewed_image_sha256": "907c965958eca06f2f113b070b99dec27152688c26841232b684a53e699dfe77"
+        },
+        "29": {
+          "pdf_page": 29,
+          "textbook_page": "21",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "30e7c6013183bb89c393f2e68aa8d0697cf0c56bb4ccfa6a186c5dd6ad739d48",
+          "reviewed_image_sha256": "8808217da516a4bb48afa8c63bfb815501739dd6cb6ff6ed07cf817445a068da"
+        },
+        "30": {
+          "pdf_page": 30,
+          "textbook_page": "22",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "6d95ba5e764bd246793d1ee7b5f9c4845b0e429aaa0455619e789ae8dd9108d9",
+          "reviewed_image_sha256": "05e07cd55afe0582aa2c70947dc2da06720ddbfabd4a35f6aefa0776dacc8de0"
+        },
+        "6": {
+          "pdf_page": 6,
+          "textbook_page": null,
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "c11bfa84fb400808eea67a1bfe25c29613adda91b6d92337e1f91ba682eeea0c",
+          "reviewed_image_sha256": "280c97c01084b532a9c0373ae456ba9e0dbd80a3814155681c7842bd85314852"
+        },
+        "7": {
+          "pdf_page": 7,
+          "textbook_page": null,
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "4ee2476748d7359b0e3069a7c214d5f18c1a01e9034634acf104d0ed9f08a79a",
+          "reviewed_image_sha256": "6f8e9a861fa67eed388a02dae5c4556109f3ba7b5b7e67811675fbc3294be4fe"
+        },
+        "8": {
+          "pdf_page": 8,
+          "textbook_page": null,
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "a2c4c1bcff9b35aa7930b924740285a2fcca44da5e6a3a48efb8cea93cd0dd37",
+          "reviewed_image_sha256": "f896e57bb3b92f46eadbf0cced75fb3c34969c27a25d5a97ad33cf68a8449e47"
+        },
+        "67": {
+          "pdf_page": 67,
+          "textbook_page": null,
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "5165f1006f8b4384310a41ae3c86a4a5aa4ae4004488a644217425bf7b8b81a8",
+          "reviewed_image_sha256": "b27e806dbb8babec78bed136dfbbb7093d8228bf8a164e3b47a4450be75c1b28"
+        },
+        "68": {
+          "pdf_page": 68,
+          "textbook_page": "60",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "2e67100bf4f0eef05e8690a438a1f68baf8252fd0f516c25f7d539d6f6769f95",
+          "reviewed_image_sha256": "28c456739378b9178e8c465f375958070445a832621666796444509d9edc1cd3"
+        },
+        "69": {
+          "pdf_page": 69,
+          "textbook_page": "61",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "549fc90974305f5882eb8550ec4f1a636943b94452194a4594ebe13e13754bf3",
+          "reviewed_image_sha256": "c1c5bf178b43a2a796614e7ad5fdf942f3dc149fbcc00bc36d09415743c37c2a"
+        },
+        "70": {
+          "pdf_page": 70,
+          "textbook_page": "62",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "3e3e3ce861430510f490da58b99d73640b00aa6eaa928f1849a86846278c090b",
+          "reviewed_image_sha256": "67a4ed71040fe9174630362df7ec87bad83292227864a276a20c535995ccc9aa"
+        },
+        "71": {
+          "pdf_page": 71,
+          "textbook_page": "63",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "4d337c9e87fad289788768b0d5e0f1b7fb34bd555f4ba136747d908893b70ce9",
+          "reviewed_image_sha256": "d8fe609080b30248d5bfcd6c1486c4b495c3d24d67d88500e5d435456348b812"
+        },
+        "72": {
+          "pdf_page": 72,
+          "textbook_page": "64",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "7f9b360d014ae12f7d349fa2988069ed5820b18208c34183b09afeb13cac9fa8",
+          "reviewed_image_sha256": "db93ee24aa68164afd7b49a0b3c05903cda820d8023bc4f8d1b09c40a8cf8b28"
+        },
+        "73": {
+          "pdf_page": 73,
+          "textbook_page": "65",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "b59df721721b5d4befb06148d8058b46cadcc8330ed6baa0dfa0ec4c0b8c8549",
+          "reviewed_image_sha256": "ac782f3aaf5518b3fabc74282160af47e730a3ab7f4db2abb4888631616b8d51"
+        },
+        "74": {
+          "pdf_page": 74,
+          "textbook_page": "66",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "f4df814699d8d8d790daa3fe226f8e70843ef87224b67c7722ec40b0e6617ef6",
+          "reviewed_image_sha256": "2ca0868592fb0f8a8c4c1bf3e67f2ecff2f791e221b149298b2bccc6403a10b6"
+        },
+        "75": {
+          "pdf_page": 75,
+          "textbook_page": "67",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "99775265001f0262b1c9350f7992ba9830877c716c687fc6a2bb597f00c84a54",
+          "reviewed_image_sha256": "1823cb9404dcf3452dc17b3f905d77dd5d25b2fdab7004b47766f15b3f6e449f"
+        },
+        "76": {
+          "pdf_page": 76,
+          "textbook_page": "68",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "639bfefd52ccde5d784561ec463916baa91793122be715a060d6d977085787f6",
+          "reviewed_image_sha256": "3d479f5afe78537b2e52a2e20a89fffad701451c7e0b325cef5771dc00254cd8"
+        },
+        "77": {
+          "pdf_page": 77,
+          "textbook_page": "69",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "a2886cd3728751167b9e15bc73a007e9865a69234b1d6321c76439008a6bd043",
+          "reviewed_image_sha256": "40f91ebb88225b7fd7c061ba92b6582c78f73bed2e4b6c56ae06df73ae6a8c9d"
+        },
+        "78": {
+          "pdf_page": 78,
+          "textbook_page": "70",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "998ce2b7051203aaa33073274ee858ad8a158525322d17eaaa7c63ad6fda81ca",
+          "reviewed_image_sha256": "35acf9621bada27399f0da38eaaa5309fc78b503da9ae9f283b10cf83d5098c7"
+        },
+        "79": {
+          "pdf_page": 79,
+          "textbook_page": "71",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "9d8cae46239d59366a2b48314e6b378249125f19e2c5636fa7a4a241d4f560d9",
+          "reviewed_image_sha256": "cca5b5392841ad8a2aeb38e405d98e8056cebf1d6899b92207fc204b3fd2d21d"
+        },
+        "80": {
+          "pdf_page": 80,
+          "textbook_page": "72",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "b3fa7d30ce4a73d69d93a95c74e3e5253ebd24a7df447ec58c058213f935a087",
+          "reviewed_image_sha256": "3dafa28f074f75ba5b61c1ca68dc51d16f496722eb8cf5454daa8bfa63b8e48c"
+        },
+        "81": {
+          "pdf_page": 81,
+          "textbook_page": "73",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "176fdce749a6478cc0617f5dea2bb3da101e204c4fa470a3c7a1e3343f4a7d1b",
+          "reviewed_image_sha256": "a44ef3025c0f4f2ceaffaad997ba00ff1f19b0d788acf300a3b0d86725d13fed"
+        },
+        "82": {
+          "pdf_page": 82,
+          "textbook_page": "74",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "be1772c40a127daf090aaf8eff1bee355cc44017e5ce02a4655b639b530dc6c2",
+          "reviewed_image_sha256": "ea2bdd6dba5ad9bdcdc28afae89154c72a36bc7eed3a40482dd169b96accb90e"
+        },
+        "83": {
+          "pdf_page": 83,
+          "textbook_page": "75",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "c547376a812afa1ceba0816297749f78319905035ad16eca0969c7f343dfb0bd",
+          "reviewed_image_sha256": "7491055f795ba867276938d8a59e1b2c7b504ab40f5ff6217d4e7db6ab4f9959"
+        },
+        "84": {
+          "pdf_page": 84,
+          "textbook_page": "76",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "c28f698df1dee8dd7a3ff1add91c40543d0320dc4e866453cb15c229c2365ec7",
+          "reviewed_image_sha256": "c3f968ea4e442756ead37754866b40bfaaec7423e2e0b6faf943c319eeb1395d"
+        },
+        "85": {
+          "pdf_page": 85,
+          "textbook_page": "77",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "7e673efd5ba7185f3ea33d7b0e0c2adada10b60ee4f02d33ec40186708af43a0",
+          "reviewed_image_sha256": "5f14a4e4b6a4df16413c9427137ba8c4a3c302f0332096ef5131bf678c5ed217"
+        },
+        "86": {
+          "pdf_page": 86,
+          "textbook_page": "78",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "41220e5370699caa857ad860c020ce57348a5f62bba737d1a27e8a934b8b61d1",
+          "reviewed_image_sha256": "aa8890580b27efd97e66bad1a269faeb69c76d1c9418018e65e2728402c99b6c"
+        },
+        "87": {
+          "pdf_page": 87,
+          "textbook_page": "79",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "72814a276881d223894a044df43ecc0a5f14c54f0264ff011632ab3d1dbe18c8",
+          "reviewed_image_sha256": "3b67a168096645a3b82cea5b263526f70e0e26a9db7cefdb6065bbbe8745b86c"
+        },
+        "88": {
+          "pdf_page": 88,
+          "textbook_page": "80",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "71dbe9ef64642ccc42df51d29de88b2e55df3ff88bedc4f1100aafa99f5b4324",
+          "reviewed_image_sha256": "a24082538276ddb2f2a84b67ed7962cc3440f984c404ee521f12c87bb0986ada"
+        },
+        "89": {
+          "pdf_page": 89,
+          "textbook_page": "81",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "8053bd3bd8872944a78cbd17ddee79d5c00e141b69a70d7acd70d5d04d5d0d58",
+          "reviewed_image_sha256": "3e266edadd525981389d08a2bc5a3679cedbff26573e03a989d8a7b63d9cbe4b"
+        },
+        "90": {
+          "pdf_page": 90,
+          "textbook_page": "82",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex forward_unit03",
+          "reviewed_text_sha256": "214173c6ce50e1cd8cf76c4c332f830957428d615ed7cbe913206b0adc360db3",
+          "reviewed_image_sha256": "63b1fe7c12d781a2e954888455bd106704c09041ea3a826deeadea92dc018628"
+        },
+        "91": {
+          "pdf_page": 91,
+          "textbook_page": null,
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "aaff86e361eb00219727b280c5d6b2463cf38ea1b2d312de76063cc659149d8e",
+          "reviewed_image_sha256": "74b8a6a77e7bbf59a9cfeab24b76d6fee5ae3dfa8c2d7c1c33cac60635517bbe"
+        },
+        "92": {
+          "pdf_page": 92,
+          "textbook_page": "84",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "63cd20bee54f3aeecfc2a9cb5ab6871ffd7b5eb14b5d00a2ccdc7342d795313f",
+          "reviewed_image_sha256": "de978f48ea18c2544d6dea07efa2e0dd1619290a68b78ab596f1d40da0696429"
+        },
+        "93": {
+          "pdf_page": 93,
+          "textbook_page": "85",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "c8186c60fbb2e2980e46eff85ac62ffad937348cac9aa3eb590a22a3cc870b25",
+          "reviewed_image_sha256": "dc442334a49d3287eb4ce42ddae05032f0e7a7eb1d6562e7557bd514866453e3"
+        },
+        "94": {
+          "pdf_page": 94,
+          "textbook_page": "86",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "785459f393380d9bfd2869bff2513581e4d0f4e4f93a796e10b5ba0d3c18f711",
+          "reviewed_image_sha256": "5aa125b1ef9472d514a7c8d361ce6b0217c568129d4eca175435af4713d0e3c9"
+        },
+        "95": {
+          "pdf_page": 95,
+          "textbook_page": "87",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "9884c6d48d4d9d7e3ef93d79ddd6e5723dfdbdeb20f586d8b526845f788f2ddd",
+          "reviewed_image_sha256": "bb14318d377633a1e4939653cc92a07b5f65c56575bcab189a4d2a936682a6ba"
+        },
+        "96": {
+          "pdf_page": 96,
+          "textbook_page": "88",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "095733c90f6ab4a2219384deba8230f74a7d1b0719f9eb96b800b6fe0920daae",
+          "reviewed_image_sha256": "46780c80f63aa3c88e6e73fa35bea99f59dd2eff34205a4768dc36701baedbab"
+        },
+        "97": {
+          "pdf_page": 97,
+          "textbook_page": "89",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "d99f0c81fc0409b4843e4c611a157fa07a44d29a904f4bad7180490a14d31df3",
+          "reviewed_image_sha256": "8f38c0b06308b49517a56de9c473c86560adcc9cecdb284efe180a01c7cec5b1"
+        },
+        "98": {
+          "pdf_page": 98,
+          "textbook_page": "90",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "004430d424ae5b9c1704054c87a7c4ed78525fc4574da36ba0e887f5902328e8",
+          "reviewed_image_sha256": "a7afa8e2c75e84db9e78b20a4b57b0efbd130b33b5bae4d75dc09e321b9e06e8"
+        },
+        "99": {
+          "pdf_page": 99,
+          "textbook_page": "91",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "6cb97ac19eaaed37d6fa50b5dd9e742c8d5b64a45fdfdbcb253386f05a606dad",
+          "reviewed_image_sha256": "6a8acae2c9de05ac60ff0d5e3d6bd099d1b5099d419fcee14b5691ea6d251029"
+        },
+        "100": {
+          "pdf_page": 100,
+          "textbook_page": "92",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "1e257a42be77fa1449b76d87234592de0b0288c5d6a3a62e517ab341c256776d",
+          "reviewed_image_sha256": "2be19a5c62c04740eb48e456962263aaa188e19b8914c0f1cc55078081df288c"
+        },
+        "101": {
+          "pdf_page": 101,
+          "textbook_page": "93",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "15efe10065fc80468d50104567879cf38f30c67008145bbd1ecf976fbdce6857",
+          "reviewed_image_sha256": "ec9e614fffcf4179b5d1256ad6bb63ee6360cce296a4194ef39492aed430b250"
+        },
+        "102": {
+          "pdf_page": 102,
+          "textbook_page": "94",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "98d7bab6c0e3a258bb4a36f588e9624b48e427ed38bcad57b79caec9bd7b3205",
+          "reviewed_image_sha256": "f9e3bca1bfdf62421e259c0d4530262f06791cf033965cfaf24347c07096d6fe"
+        },
+        "103": {
+          "pdf_page": 103,
+          "textbook_page": "95",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "c74b8cc93d55a122c6f7ebaa28e022a6167f3cd8ae6703623774fc1c632d5ca7",
+          "reviewed_image_sha256": "73425d6e49ef176a0f19ddf6f19a8386418cea222e4307d4734518ed1b968d25"
+        },
+        "104": {
+          "pdf_page": 104,
+          "textbook_page": "96",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "d45834f50b8d7f821200a5b9e81e87005a7748742599eca4ac62a5285d0835fe",
+          "reviewed_image_sha256": "7299dc7a11afad47628d52a2608159ed47585cb648fb144fc06edb7e35cd79c6"
+        },
+        "105": {
+          "pdf_page": 105,
+          "textbook_page": "97",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "c22f48beeff381851386b52eb019a9313a34dc89f19fd7cd1f77cae05a5404ab",
+          "reviewed_image_sha256": "e1aed7aa82c95e7ecfdab893e499bb88d4483f2cf88f57f502f5c067717657e1"
+        },
+        "106": {
+          "pdf_page": 106,
+          "textbook_page": "98",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "d3fc5debd8fd0f542f5b9f80ee703587e383ab0fda78f405aecfba7bcbc5e07a",
+          "reviewed_image_sha256": "50e249c9c8204504df904d8a2b09e617c72ed123684e25dd4cc14fbb072970d6"
+        },
+        "107": {
+          "pdf_page": 107,
+          "textbook_page": "99",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "d7605a5aa087c921f05216e23768f7884f91d5e16485ab31b00db4598d122d0c",
+          "reviewed_image_sha256": "6975e573edc9a759581153b05d62762acd02d33853d78515f148f65a50551e7b"
+        },
+        "108": {
+          "pdf_page": 108,
+          "textbook_page": "100",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "f21547f537f0a2024fdc6f09aecb20c5430758dcd9b0fede470d9fa58f1db0b0",
+          "reviewed_image_sha256": "82cca1871c0337127fc92e6ddcbedaa078f2627cde58977ac7b3fd5c9ed2d2ad"
+        },
+        "109": {
+          "pdf_page": 109,
+          "textbook_page": "101",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "510bb294a93ac750036ef73ebbc9a24d0467108146c7d08014578aca02b9ba16",
+          "reviewed_image_sha256": "97b9ff3aca828c77a5233dd5151bb09ca19c97948a82332e7c596038529b6ef9"
+        },
+        "110": {
+          "pdf_page": 110,
+          "textbook_page": "102",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex /root/forward_unit04",
+          "reviewed_text_sha256": "7cd277c608e9a398a11e7ebd45f79145a01edd5d0b7fab37898ea91ba061bdec",
+          "reviewed_image_sha256": "42fe3291d8bc84e33d0b31bb42636d68efc6c64458a8ef911315dc5ae337e554"
+        },
+        "5": {
+          "pdf_page": 5,
+          "textbook_page": null,
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "0afa5bd98f66d20811e87a157125e9b8e817686f5b323522ee3d0aacc847728e",
+          "reviewed_image_sha256": "53c6f8fb177a74189314aff9e08ef3fb601eaaba5fce01557e946e79ba418f4d"
+        },
+        "33": {
+          "pdf_page": 33,
+          "textbook_page": null,
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "6c6dfb32cd2cd2e9494bcd35a4261f6e0323e50cf98e9d0a6ded5315b8d10c07",
+          "reviewed_image_sha256": "934cabf6ed99f58ec871ed2f0699710568804867afde36cb7fbdfe47e832f438"
+        },
+        "34": {
+          "pdf_page": 34,
+          "textbook_page": "26",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "104e35d0341403f82cc2577e80a588ff757c3c80a093285e42c594c06319e641",
+          "reviewed_image_sha256": "68829bcbb90fbb9d93ba188b102c6f5b34142a4402e80722428f1b3d73b8d1dc"
+        },
+        "35": {
+          "pdf_page": 35,
+          "textbook_page": "27",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "739381a91f7ba5479b492e40ecd93ba9add20cac7269a30557afc87965e8022c",
+          "reviewed_image_sha256": "4ce8a89ed0ddf947430ba23eafed29ff98bf08d65f45c9d13a82ff1f49ab7681"
+        },
+        "36": {
+          "pdf_page": 36,
+          "textbook_page": "28",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "7ac98ae18e1e0ab26741114c3ad6e3a84fa20d58cd2da10ec672b862f484f26e",
+          "reviewed_image_sha256": "221d79c61f6a9fe1740167539cdc5147e0b15ac87f7f21f3227b8e198a665ae7"
+        },
+        "37": {
+          "pdf_page": 37,
+          "textbook_page": "29",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "3f091a5820b629bea1d5f51b6357619b33b3a32ef4700c631682259432b159f6",
+          "reviewed_image_sha256": "7770e70ae8eda603f287a3cd52defc6a555e858b43d6df96f7748cb8e2f4af72"
+        },
+        "38": {
+          "pdf_page": 38,
+          "textbook_page": "30",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "06be552aa5c67147d02f034fa564cfa1d0bd585f4f452a7891576e8551be0624",
+          "reviewed_image_sha256": "b368246f3cdbdf68e8c426d63214ea1419a28a55e54f79bb5f55d140d7e9ebb0"
+        },
+        "39": {
+          "pdf_page": 39,
+          "textbook_page": "31",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "0ab6212a1c696d71cb3e311937084dcf43cf43bce4b6cf8293a6e8b554bb917e",
+          "reviewed_image_sha256": "091ebd289059df6ef335341b310f9436916022881c6017d3fd0229d5472f83e5"
+        },
+        "40": {
+          "pdf_page": 40,
+          "textbook_page": "32",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "bb09df9db63200b38c130f3c6c738e9a73d19216fdb4e51a286ee0a37f4044a3",
+          "reviewed_image_sha256": "5c65ecd2548a478e9052af57cdcbd09c6fc2c6dbe3856196aef6ecf87ea0486f"
+        },
+        "41": {
+          "pdf_page": 41,
+          "textbook_page": "33",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "b8269774a389444f74fa8ed0961724ef4f21de42d44727c349731e4ae122eba7",
+          "reviewed_image_sha256": "c6f07fb0264b18f0972f2cc8efb39c85c5539ae1c0f3b3d46cd0b02aa5a2d29e"
+        },
+        "42": {
+          "pdf_page": 42,
+          "textbook_page": "34",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "2a6fbc278b7d04405221e5057c5564c1700a63af0e0d8fb2d03107827ebfbfad",
+          "reviewed_image_sha256": "aeab315c06ecabe88a4469db7ccc9cd5f7db14bc8ea61be521bb013313566c4a"
+        },
+        "43": {
+          "pdf_page": 43,
+          "textbook_page": "35",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "e8245ac53390944b1a4ec073daf1d9200253842dd308ff1af199be8260d5fa0c",
+          "reviewed_image_sha256": "1aca46c63d68833095366e805b1d7563293e673b60a87908e0f6e552cb61f8e1"
+        },
+        "44": {
+          "pdf_page": 44,
+          "textbook_page": "36",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "6f26a5796623c8a4a4118f4bf3866ea1d8e7fc47b591f819184e943d0d5ff662",
+          "reviewed_image_sha256": "efa0a9af580aa3d14de9ee850a307a9fa3b6d81a709b3e24d25fe8690021a66f"
+        },
+        "45": {
+          "pdf_page": 45,
+          "textbook_page": "37",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "6da15f847a0ebff7c5ad2a626e7116d35317af7bf655e1d129c07ac971096abf",
+          "reviewed_image_sha256": "715a5c0b758ed40452ce738cbcda2b8bb201829b9ea0fcb57b0d36f734058f8e"
+        },
+        "46": {
+          "pdf_page": 46,
+          "textbook_page": "38",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "fe19c9312c06ad0f4b8823368dae1c318ab1ec9716e1745070352e7f91e62ba2",
+          "reviewed_image_sha256": "7649b3bf273cc27233369084ca4560fe75b0568e6289a490ecb71f4177b340c9"
+        },
+        "47": {
+          "pdf_page": 47,
+          "textbook_page": "39",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "f088a3b4d679c037db2b91bd91de378dcbb9575ff2ff9e79934d6cf4e2994773",
+          "reviewed_image_sha256": "bff20d7cb1bd15334fca0f481d5ff3908c18064e8fea76ce67743b2a76fbfa50"
+        },
+        "48": {
+          "pdf_page": 48,
+          "textbook_page": "40",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "0c85fbf1b8211c4dc112d5a9ccac08368c90eb1161e0386ddd35aac780fa3157",
+          "reviewed_image_sha256": "d02a86df052434e7e0aa5ead00d21c1c77ef523e31f04767334f16640740842a"
+        },
+        "49": {
+          "pdf_page": 49,
+          "textbook_page": "41",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "edd6210a661b1b85e6bd759257b6121a66178690146ae3dc8f7bc180a20f8c16",
+          "reviewed_image_sha256": "50ac8812520f9b0ca66cfaa0bfeda703a3e95fc9a7d05f064bf5e43479166d5b"
+        },
+        "50": {
+          "pdf_page": 50,
+          "textbook_page": "42",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "3fdf881128d3923470375f4d61b96b003dadcf1ee1ddce0ab5b04a78110ed493",
+          "reviewed_image_sha256": "9199d199fc9dc04e563d3f5c7db6bd4b02c8caa031a9e2bfcdcddc7c9e71a60d"
+        },
+        "51": {
+          "pdf_page": 51,
+          "textbook_page": "43",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "e6a8fc3b081644396002aa224485c069e0ddb037e06a98ba4dad853d192a9031",
+          "reviewed_image_sha256": "698c9c03ace88223956a44ef63221ed3118b9eb83e67850a1672b5c740d7ec81"
+        },
+        "52": {
+          "pdf_page": 52,
+          "textbook_page": "44",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "1742de3c0229c33fa961a037f0ec0b99f08496e451fca9ea313587344143a1e4",
+          "reviewed_image_sha256": "67bbe595dd6a44769c9050675ed7beb97b8d743d032c1a53d7c1beed86645450"
+        },
+        "53": {
+          "pdf_page": 53,
+          "textbook_page": "45",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "c7ae7636d934fa0206de8da21cc88ebe3a3920a0202924672ffdc2b57a5d44c0",
+          "reviewed_image_sha256": "37dd0033d31d593e7c9078ce69d097593131809b5fd4cb8cb3a18e37e8cb1975"
+        },
+        "54": {
+          "pdf_page": 54,
+          "textbook_page": "46",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "95d765b608f25eb61870f056908a775bba407ec811102b6b508a59721e96cd93",
+          "reviewed_image_sha256": "e1427967cf663ffacd44c223695d25910347438cf278a74ccb59fc3ac4f55b8c"
+        },
+        "55": {
+          "pdf_page": 55,
+          "textbook_page": "47",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "e151246383e9b2c2140c2b6723575689c5b80c5b8a0b21ea5cd027cf5d0c295e",
+          "reviewed_image_sha256": "a34434d7d7a28f256f9bed0d8096526f4b5326fe551ad8def956650f5fcc7b74"
+        },
+        "56": {
+          "pdf_page": 56,
+          "textbook_page": "48",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "9d7e2a521e51e90b8d84731e0abba3c22e72d6130b89b062f1ddec497bf25627",
+          "reviewed_image_sha256": "b5d7e29312f96f2adb14d01d4e950c203b96238406460ac9b0f9049214a82639"
+        },
+        "57": {
+          "pdf_page": 57,
+          "textbook_page": "49",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "4520804073e8efd142c7b8e87920c479f53605dedec4259bd39a6005238f55c2",
+          "reviewed_image_sha256": "956f1d6c27ada2966dcb7dc38d74882b226cae939d64c8775f329896875fc758"
+        },
+        "58": {
+          "pdf_page": 58,
+          "textbook_page": "50",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "42234f32def5d936a878ded411c127667d4468b03415cb67037f453e3843e1e1",
+          "reviewed_image_sha256": "61cae468a2368f1e6f4d10e1bd3d24ac5537af00380aa74dd14eb173f52909e6"
+        },
+        "59": {
+          "pdf_page": 59,
+          "textbook_page": "51",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "a91079012e04fde41ecd2d12f981b5396284c11b28ed9ca3a284eb0d3805c23e",
+          "reviewed_image_sha256": "c83e11c13204c772bee06111ada944436198833efd3416d88f2940bc2b1789bd"
+        },
+        "60": {
+          "pdf_page": 60,
+          "textbook_page": "52",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "a0b26a41f1dd889cffa8a8dc6dfa78d7a5e26d2e6613b75e5233811e5b7df7a8",
+          "reviewed_image_sha256": "dcd59ee864097764775b5cb9406a46f8a730e35a43cbfcdb13d0c97e335869cd"
+        },
+        "61": {
+          "pdf_page": 61,
+          "textbook_page": "53",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "d921070168b31803e73cb2c53617fd6f24a5804e3d53040142151a7d4a7b2e94",
+          "reviewed_image_sha256": "56870f5be93f3f8a22ff6006bc3ed20c75f23fedc5946ca57d0b719067bb1319"
+        },
+        "62": {
+          "pdf_page": 62,
+          "textbook_page": "54",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "346f18266f73bea13e5f92c94b745bcee7eac6ab6c3b154ca6334af671be0a31",
+          "reviewed_image_sha256": "04d8b6cb3b2a649565de4df0dd347e735a8b37b93c30a8fd81ef328c3de23bdf"
+        },
+        "63": {
+          "pdf_page": 63,
+          "textbook_page": "55",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "3a48a93b339f00a291b8aab1e3f7c9c9ccf128756f64df6883ee81ebba91d5ac",
+          "reviewed_image_sha256": "45c3000e82f82c6dd14002800177e48784aaba909d8fd4bebb1621230f2948e1"
+        },
+        "64": {
+          "pdf_page": 64,
+          "textbook_page": "56",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "9daf350f8e3bdf7ca68f7212279bca05517e974474de8d7962f294897ced8d46",
+          "reviewed_image_sha256": "c36ffe9e8bd4d5d2966c3558e2dcdc10225ba51aadecae21988aadc442034291"
+        },
+        "65": {
+          "pdf_page": 65,
+          "textbook_page": "57",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "3b8590306787a8a8801c3b1688b5cb5653f839ea39fbde617be8334eef119e1d",
+          "reviewed_image_sha256": "93e2f170c44e19329232e77485335b6750492900601a33485c8951440d10ab13"
+        },
+        "66": {
+          "pdf_page": 66,
+          "textbook_page": "58",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex-unit02-independent-trial",
+          "reviewed_text_sha256": "aca0b7dd01ed41fbf3c58a4953feccda4ede235149052e678ae45f937ca62c36",
+          "reviewed_image_sha256": "adf2cf9180373d88a8f9f5d97bb2d235cbddf237ba1d48a95387fb2931f8ce58"
+        },
+        "31": {
+          "pdf_page": 31,
+          "textbook_page": "23",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "a9c3b24fe127b28e0a70d7a665aff16ea6ef084839e446ee4096b3397442ea0f",
+          "reviewed_image_sha256": "7bf2f8a0dc89dd731b4dc012209a6027c93a2c9c4e79abb0387f3181813837f4"
+        },
+        "32": {
+          "pdf_page": 32,
+          "textbook_page": "24",
+          "review_status": "reviewed",
+          "reviewed_by": "Codex",
+          "reviewed_text_sha256": "0c529230071589ad0758074f4e42abedea535877b891b9d776618aff17e82ab8",
+          "reviewed_image_sha256": "6fcf3112702ffe2ac462ce32072378812c482fbbadc5ab9ea26d12917abfedd5"
+        }
+      }
+    }
+  }
+}

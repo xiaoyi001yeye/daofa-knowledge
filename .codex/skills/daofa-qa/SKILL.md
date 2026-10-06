@@ -10,13 +10,14 @@ Use the repository knowledge base as the primary authority.
 ## Workflow
 
 1. Read the user's question carefully.
-2. Identify likely grade, unit, lesson, and concept.
-3. Search `knowledge/` for relevant Markdown files and headings.
-4. Read enough surrounding context to understand the complete knowledge point.
-5. Extract the question's key clues or “题眼”.
+2. Extract the material's key clues or “题眼” and identify the question type (what / why / how / significance / judgement). Identify the likely grade and check the knowledge-base index for current coverage.
+3. Search `knowledge/` using `python scripts/knowledge.py search --knowledge knowledge --query "题目"`, or use `rg` to locate relevant entries. The generated 题眼索引 helps find candidates; matching is not proof of applicability.
+   For questions spanning topics, search each clue and question type separately when the initial candidates omit a needed topic. Read the corresponding lesson before selecting scoring points.
+4. Read the complete knowledge point and its `daofa` metadata. Use only points marked `verified` whose source references match a `reviewed` page in `knowledge/sources.json`. Drafts, placeholders and OCR raw text are not textbook evidence.
+5. Check each candidate against the clues and question type; discard irrelevant matches.
 6. Map each clue to one or more supported knowledge points.
-7. Write the answer in concise exam-ready Chinese.
-8. If evidence is insufficient, say so explicitly.
+7. Map each scoring point to its knowledge-point ID, then write the answer in concise exam-ready Chinese. In default and teaching modes, give the lesson, textbook page and PDF page for the supporting sources.
+8. If evidence is insufficient, say “当前知识库依据不足” and identify the missing support. Any general analysis must be clearly separated from textbook-supported scoring points.
 
 ## Grounding rules
 
@@ -26,11 +27,14 @@ Use the repository knowledge base as the primary authority.
 - If several lessons are relevant, list them separately.
 - Preserve the knowledge base's terminology.
 - Distinguish source-grounded content from optional inference.
+- Public source records certify a previous review. Users without the PDF can use verified published knowledge; do not claim to have rechecked the original in the current session.
+- If the repository's source or index validation fails, state the problem and repair it when authorized; do not treat the failure as successful verification.
+- “标准答案” means a textbook-supported reference answer unless the user supplied an official answer or rubric.
 
 ## Default answer format
 
 ### 教材知识定位
-List the most relevant lesson/section.
+List the most relevant lesson/section and textbook page; include the PDF page when helpful for locating the original.
 
 ### 题目分析
 Explain the key clues in the material.
